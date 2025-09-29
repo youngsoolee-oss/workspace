@@ -1,0 +1,19 @@
+{
+"data" : [
+{"brand_name":"토리든","item_name":"다이브인 저분자 히알루론산 크림 100ml 기획(+세럼 10ml+클렌징젤 30ml)","item_id":"46604","sales_price":15500}
+,{"brand_name":"토리든","item_name":"다이브인 저분자 히알루론산 세럼 100ml 기획 (+수딩크림 50ml)","item_id":"54413","sales_price":26900}
+,{"brand_name":"토리든","item_name":"다이브인 저분자 히알루론산 클렌징폼 150ml 더블기획 (+시카 클렌징폼 50ml)","item_id":"66380","sales_price":19900}
+,{"brand_name":"토리든","item_name":"다이브인 저분자 히알루론산 수딩크림 100ml 기획(+토너 50ml+마스크 1매)","item_id":"69344","sales_price":15500}
+,{"brand_name":"토리든","item_name":"다이브인 저분자 히알루론산 토너 300ml 더블기획(+수딩크림 20 ml)","item_id":"69574","sales_price":19900}
+,{"brand_name":"토리든","item_name":"밸런스풀 시카 컨트롤 세럼 50ml 기획 (+토너 50ml)","item_id":"72925","sales_price":17500}
+,{"brand_name":"린제이","item_name":"쿨 티트리 모델링팩 1kg 기획(+보습앰플100ml +팩도구세트)","item_id":"66651","sales_price":16200}
+,{"brand_name":"린제이","item_name":"비타민 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66664","sales_price":16200}
+,{"brand_name":"린제이","item_name":"콜라겐 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66668","sales_price":16200}
+,{"brand_name":"린제이","item_name":"차콜 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66676","sales_price":16200}
+,{"brand_name":"린제이","item_name":"스피룰리나 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66680","sales_price":16200}
+,{"brand_name":"린제이","item_name":"진주 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66686","sales_price":16200}
+,{"brand_name":"린제이","item_name":"골드 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66690","sales_price":16200}
+,{"brand_name":"린제이","item_name":"카렌듈라 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66694","sales_price":16200}
+,{"brand_name":"린제이","item_name":"라벤더 모델링팩 1kg 기획 (+보습앰플 100ml +팩도구세트)","item_id":"66700","sales_price":16200}
+]
+}
