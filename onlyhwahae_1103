@@ -1,0 +1,102 @@
+{
+"data" : {"brand_name":"제나벨","item_id":"66455","price":"66000","sales_price":"28900","discount_rate":56.20%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"제나벨","item_id":"67760","price":"44000","sales_price":"17000","discount_rate":61.40%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"백아율","item_id":"60385","price":"51000","sales_price":"13900","discount_rate":72.70%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"와이비케이","item_id":"58874","price":"44000","sales_price":"18900","discount_rate":50.00%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"와이비케이","item_id":"72318","price":"70000","sales_price":"20900","discount_rate":67.29%,"cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001"}
+,{"brand_name":"다자연","item_id":"72326","price":"37500","sales_price":"24900","discount_rate":33.60%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"다자연","item_id":"52178","price":"47000","sales_price":"18900","discount_rate":59.80%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"다자연","item_id":"52188","price":"94000","sales_price":"36900","discount_rate":60.70%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"다자연","item_id":"67106","price":"32000","sales_price":"15900","discount_rate":50.30%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"더랩바이블랑두","item_id":"59358","price":"23000","sales_price":"15100","discount_rate":34.30%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001"}
+,{"brand_name":"라운드랩","item_id":"60938","price":"40000","sales_price":"19900","discount_rate":50.00%,"cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001"}
+,{"brand_name":"닥터오라클","item_id":"54411","price":"34000","sales_price":"17900","discount_rate":47.35%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"닥터오라클","item_id":"56989","price":"75000","sales_price":"14750","discount_rate":80.33%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"토리든","item_id":"69574","price":"42000","sales_price":"19900","discount_rate":52.60%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001"}
+,{"brand_name":"토리든","item_id":"69344","price":"24000","sales_price":"15500","discount_rate":35.40%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"토리든","item_id":"46604","price":"25000","sales_price":"15500","discount_rate":38.00%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"토리든","item_id":"54413","price":"44000","sales_price":"26900","discount_rate":38.90%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"토리든","item_id":"66380","price":"33000","sales_price":"19900","discount_rate":39.70%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"토리든","item_id":"72925","price":"23000","sales_price":"18400","discount_rate":20.00%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"메디힐","item_id":"66348","price":"47000","sales_price":"25900","discount_rate":44.90%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"메디힐","item_id":"56891","price":"32000","sales_price":"20800","discount_rate":35.00%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"코스알엑스","item_id":"61258","price":"46000","sales_price":"30000","discount_rate":34.80%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"이즈앤트리","item_id":"62479","price":"33000","sales_price":"16900","discount_rate":48.80%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001"}
+,{"brand_name":"이즈앤트리","item_id":"69152","price":"44000","sales_price":"25900","discount_rate":41.10%,"cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001"}
+,{"brand_name":"조선미녀","item_id":"66529","price":"20000","sales_price":"13500","discount_rate":25.00%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"워시오프 팩","cate_3_code":"001:003:003"}
+,{"brand_name":"원진이펙트","item_id":"61188","price":"29000","sales_price":"15900","discount_rate":42.10%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"휴캄","item_id":"55017","price":"60000","sales_price":"14900","discount_rate":71.80%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"휴캄","item_id":"56614","price":"60000","sales_price":"14900","discount_rate":71.80%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"리브엠","item_id":"57245","price":"84000","sales_price":"13900","discount_rate":83.50%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"리브엠","item_id":"65765","price":"26000","sales_price":"12900","discount_rate":47.30%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"리브엠","item_id":"61598","price":"28000","sales_price":"12900","discount_rate":53.90%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011"}
+,{"brand_name":"리브엠","item_id":"68150","price":"40000","sales_price":"15900","discount_rate":58.00%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011"}
+,{"brand_name":"메디필","item_id":"62043","price":"25000","sales_price":"14900","discount_rate":40.40%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"프리메이","item_id":"56822","price":"40000","sales_price":"15700","discount_rate":60.75%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001"}
+,{"brand_name":"프리메이","item_id":"61437","price":"56000","sales_price":"16900","discount_rate":69.82%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"프리메이","item_id":"67870","price":"36000","sales_price":"16900","discount_rate":53.06%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"프리메이","item_id":"73508","price":"36000","sales_price":"14900","discount_rate":58.61%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"리더스","item_id":"65655","price":"67000","sales_price":"11900","discount_rate":82.24%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"화해에센셜","item_id":"59331","price":"20000","sales_price":"9900","discount_rate":50.50%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001"}
+,{"brand_name":"화해에센셜","item_id":"59332","price":"40000","sales_price":"17900","discount_rate":55.25%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001"}
+,{"brand_name":"화해에센셜","item_id":"59596","price":"22000","sales_price":"9900","discount_rate":55.00%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"화해에센셜","item_id":"59597","price":"44000","sales_price":"17900","discount_rate":59.32%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"일소","item_id":"51746","price":"32000","sales_price":"13900","discount_rate":56.56%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"코팩","cate_3_code":"001:003:007"}
+,{"brand_name":"매스티나","item_id":"68177","price":"52000","sales_price":"17900","discount_rate":65.58%,"cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001"}
+,{"brand_name":"린제이","item_id":"66651","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66664","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66668","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66676","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66680","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66694","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66700","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66686","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"린제이","item_id":"66690","price":"28000","sales_price":"14900","discount_rate":46.79%,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"에스네이처","item_id":"73817","price":"46000","sales_price":"25300","discount_rate":45.00%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005"}
+,{"brand_name":"에스네이처","item_id":"69276","price":"80000","sales_price":"20900","discount_rate":73.88%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"일리윤","item_id":"58436","price":"43900","sales_price":"25900","discount_rate":41.00%,"cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디로션","cate_3_code":"001:008:002"}
+,{"brand_name":"라보에이치","item_id":"52938","price":"48000","sales_price":"27900","discount_rate":41.88%,"cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001"}
+,{"brand_name":"일리윤","item_id":"52942","price":"31900","sales_price":"19900","discount_rate":37.62%,"cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001"}
+,{"brand_name":"려","item_id":"67007","price":"42200","sales_price":"26900","discount_rate":36.26%,"cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001"}
+,{"brand_name":"일리윤","item_id":"70184","price":"42000","sales_price":"24100","discount_rate":42.62%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"립/아이 리무버","cate_3_code":"001:002:008"}
+,{"brand_name":"결하우스","item_id":"73420","price":"44000","sales_price":"19900","discount_rate":54.77%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004"}
+,{"brand_name":"메이크프렘","item_id":"60843","price":"32000","sales_price":"19800","discount_rate":38.13%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"메이크프렘","item_id":"59742","price":"42000","sales_price":"27300","discount_rate":35.00%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005"}
+,{"brand_name":"어바웃미","item_id":"58803","price":"30000","sales_price":"14900","discount_rate":50.33%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"파티온","item_id":"60898","price":"40000","sales_price":"21900","discount_rate":45.25%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"파티온","item_id":"62190","price":"50000","sales_price":"26900","discount_rate":46.20%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"싸이닉","item_id":"68145","price":"26000","sales_price":"17200","discount_rate":33.85%,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002"}
+,{"brand_name":"션리","item_id":"70162","price":"32000","sales_price":"17900","discount_rate":44.06%,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"투쿨포스쿨","item_id":"62989","price":"16000","sales_price":"8900","discount_rate":44.38%,"cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"프라이머","cate_3_code":"001:005:002"}
+,{"brand_name":"비플레인","item_id":"61049","price":"24000","sales_price":"14900","discount_rate":0.379166666666667,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"비플레인","item_id":"68900","price":"26000","sales_price":"15900","discount_rate":0.388461538461538,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"비플레인","item_id":"67703","price":"35000","sales_price":"18500","discount_rate":0.471428571428571,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"비플레인","item_id":"68713","price":"39000","sales_price":"22900","discount_rate":0.412820512820513,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004"}
+,{"brand_name":"비플레인","item_id":"60038","price":"26000","sales_price":"15600","discount_rate":0.4,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008"}
+,{"brand_name":"비플레인","item_id":"65876","price":"38000","sales_price":"22900","discount_rate":0.397368421052632,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"앰플엔","item_id":"53097","price":"72000","sales_price":"18900","discount_rate":0.7375,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"아누아","item_id":"63394","price":"26000","sales_price":"13900","discount_rate":0.465384615384615,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002"}
+,{"brand_name":"아누아","item_id":"69360","price":"59900","sales_price":"23500","discount_rate":0.607679465776294,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"아누아","item_id":"70767","price":"32000","sales_price":"14500","discount_rate":0.546875,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"에스트라","item_id":"72339","price":"33000","sales_price":"26400","discount_rate":0.2,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"에스트라","item_id":"72340","price":"33000","sales_price":"26400","discount_rate":0.2,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002"}
+,{"brand_name":"에스트라","item_id":"70506","price":"32000","sales_price":"25600","discount_rate":0.2,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"에스트라","item_id":"72561","price":"66000","sales_price":"49500","discount_rate":0.25,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002"}
+,{"brand_name":"에스트라","item_id":"70592","price":"64000","sales_price":"48000","discount_rate":0.25,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"마녀공장","item_id":"72447","price":"35000","sales_price":"18400","discount_rate":0.474285714285714,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004"}
+,{"brand_name":"닥터올가","item_id":"71595","price":"66000","sales_price":"32500","discount_rate":0.507575757575758,"cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001"}
+,{"brand_name":"닥터올가","item_id":"71596","price":"66000","sales_price":"32500","discount_rate":0.507575757575758,"cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001"}
+,{"brand_name":"닥터지","item_id":"59057","price":"62000","sales_price":"25500","discount_rate":0.588709677419355,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005"}
+,{"brand_name":"닥터지","item_id":"59058","price":"48000","sales_price":"22000","discount_rate":0.541666666666667,"cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001"}
+,{"brand_name":"딕셔니스트","item_id":"62204","price":"76000","sales_price":"24900","discount_rate":0.672368421052632,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"잇츠스킨","item_id":"59743","price":"27000","sales_price":"13900","discount_rate":0.485185185185185,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"수이스킨","item_id":"61962","price":"32000","sales_price":"13900","discount_rate":0.565625,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"비알머드","item_id":"56872","price":"28000","sales_price":"10900","discount_rate":0.610714285714286,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001"}
+,{"brand_name":"포레스트","item_id":"64047","price":"55000","sales_price":"19900","discount_rate":0.638181818181818,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"디어클레어스","item_id":"59402","price":"52600","sales_price":"19900","discount_rate":0.621673003802281,"cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001"}
+,{"brand_name":"풀리","item_id":"68512","price":"32000","sales_price":"20900","discount_rate":0.346875,"cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004"}
+,{"brand_name":"SRB","item_id":"42992","price":"25000","sales_price":"17500","discount_rate":0.3,"cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 파우더","cate_3_code":"001:002:011"}
+,{"brand_name":"웰라쥬","item_id":"61888","price":"34000","sales_price":"19000","discount_rate":0.441,"cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003"}
+,{"brand_name":"크리티","item_id":"69903","price":"49000","sales_price":"22500","discount_rate":0.540816326530612,"cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010"}
+]
+}
