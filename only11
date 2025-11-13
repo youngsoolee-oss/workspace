@@ -1,4 +1,5 @@
-[
+{
+"data" : [
 {"brand_name":"비플레인","item_id":"6403","price":"15000","sales_price":"9900","discount_rate":"0.34","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"6847"
 ,"url":"","product_name":"녹두 약산성 클렌징폼 80ml"},
 {"brand_name":"비플레인","item_id":"70139","price":"38000","sales_price":"22800","discount_rate":"0.4","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"6847"
@@ -1218,3 +1219,4 @@
 {"brand_name":"포엘리에","item_id":"73115","price":"20000","sales_price":"10900","discount_rate":"0.455","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디크림/젤","cate_3_code":"001:008:003","brand_id":"5903"
 ,"url":"","product_name":"포엘리에 오스몰250 수용성 마사지젤 100ml"}
 ]
+}
