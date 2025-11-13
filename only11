@@ -1,0 +1,1220 @@
+[
+{"brand_name":"비플레인","item_id":"6403","price":"15000","sales_price":"9900","discount_rate":"0.34","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"6847"
+,"url":"","product_name":"녹두 약산성 클렌징폼 80ml"},
+{"brand_name":"비플레인","item_id":"70139","price":"38000","sales_price":"22800","discount_rate":"0.4","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"6847"
+,"url":"","product_name":"비플레인 녹두 모공 스케일링 워터 150ml+화장솜 40매 + 피지 스케일러"},
+{"brand_name":"비플레인","item_id":"53424","price":"24000","sales_price":"19200","discount_rate":"0.2","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"워시오프 팩","cate_3_code":"001:003:003","brand_id":"6847"
+,"url":"","product_name":"녹두 모공 클레이 팩 120ml"},
+{"brand_name":"비플레인","item_id":"66717","price":"48000","sales_price":"26400","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"6847"
+,"url":"","product_name":"녹두 모공 클리어링 라하 토너 (265mlx2개)"},
+{"brand_name":"비플레인","item_id":"67770","price":"25000","sales_price":"16900","discount_rate":"0.324","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"6847"
+,"url":"","product_name":"녹두 모공 밀크 클렌징밤 100ml"},
+{"brand_name":"비플레인","item_id":"61049","price":"24000","sales_price":"15800","discount_rate":"0.341666666666667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"6847"
+,"url":"","product_name":"녹두 모공 타이트업 세럼 30ml+15ml 기획"},
+{"brand_name":"비플레인","item_id":"68900","price":"26000","sales_price":"16300","discount_rate":"0.373076923076923","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"6847"
+,"url":"","product_name":"녹두 모공 타이트업 수딩 크림 60ml+20ml 기획 (+녹두폼 20ml)"},
+{"brand_name":"비플레인","item_id":"67703","price":"35000","sales_price":"18900","discount_rate":"0.46","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"6847"
+,"url":"","product_name":"녹두 약산성 클렌징폼 200ml 기획 (120ml+80ml+수딩크림20ml)"},
+{"brand_name":"비플레인","item_id":"68713","price":"39000","sales_price":"23400","discount_rate":"0.4","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"6847"
+,"url":"","product_name":"녹두 클렌징 오일 200ml+100ml 기획 (+녹두폼 20ml)"},
+{"brand_name":"비플레인","item_id":"60038","price":"26000","sales_price":"16900","discount_rate":"0.35","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"6847"
+,"url":"","product_name":"시카테롤 블레미쉬 패드 80매 기획 (70매+10매+앰플5ml)"},
+{"brand_name":"비플레인","item_id":"65876","price":"38000","sales_price":"23500","discount_rate":"0.381578947368421","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"6847"
+,"url":"","product_name":"시카테롤 앰플 50ml 대용량 기획(+패드 10매)"},
+{"brand_name":"앰플엔","item_id":"53097","price":"72000","sales_price":"18900","discount_rate":"0.7375","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"4739"
+,"url":"","product_name":"[ONLY화해] 세라마이드샷 앰플 100ml 대용량 스페셜 에디션(앰플100ml+30ml)"},
+{"brand_name":"앰플엔","item_id":"61284","price":"80000","sales_price":"17900","discount_rate":"0.77625","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"4739"
+,"url":"","product_name":"세라마이드샷 고보습 크림 50ml (2개입)"},
+{"brand_name":"앰플엔","item_id":"7114","price":"38000","sales_price":"17900","discount_rate":"0.528947368421053","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"4739"
+,"url":"","product_name":"퓨리파잉샷 호박 효소 필링젤 100ml (2개입)"},
+{"brand_name":"앰플엔","item_id":"35493","price":"72000","sales_price":"19800","discount_rate":"0.725","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"4739"
+,"url":"","product_name":"센텔카밍샷 진정 앰플 대용량 100ml"},
+{"brand_name":"앰플엔","item_id":"36213","price":"72000","sales_price":"19800","discount_rate":"0.725","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"4739"
+,"url":"","product_name":"펩타이드샷 투엑스 탄력 앰플 대용량 100ml"},
+{"brand_name":"앰플엔","item_id":"71414","price":"30000","sales_price":"19000","discount_rate":"0.366666666666667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"4739"
+,"url":"","product_name":"블레미샷 7일 잡티앰플 30ml"},
+{"brand_name":"스킨푸드","item_id":"25110","price":"26000","sales_price":"16600","discount_rate":"0.361538461538462","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"53"
+,"url":"","product_name":"캐롯 카로틴 카밍 워터 패드 60매"},
+{"brand_name":"스킨푸드","item_id":"71317","price":"27000","sales_price":"14800","discount_rate":"0.451851851851852","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"53"
+,"url":"","product_name":"레몬그라스 나이아신아마이드 20 세럼 50ml"},
+{"brand_name":"스킨푸드","item_id":"48996","price":"18000","sales_price":"14400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"53"
+,"url":"","product_name":"착한 수분크림 1+1"},
+{"brand_name":"스킨푸드","item_id":"63427","price":"25000","sales_price":"14500","discount_rate":"0.42","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"53"
+,"url":"","product_name":"블루캐모마일 크림"},
+{"brand_name":"스킨푸드","item_id":"5913","price":"32000","sales_price":"17600","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"53"
+,"url":"","product_name":"로열 허니 에센스"},
+{"brand_name":"스킨푸드","item_id":"5928","price":"22000","sales_price":"12700","discount_rate":"0.422727272727273","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"53"
+,"url":"","product_name":"[소프트스크럽] 블랙슈가 에센셜 스크럽 2X"},
+{"brand_name":"아누아","item_id":"35620","price":"45000","sales_price":"26500","discount_rate":"0.411111111111111","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"7890"
+,"url":"","product_name":"어성초 77 수딩 토너 500ml"},
+{"brand_name":"아누아","item_id":"58893","price":"28000","sales_price":"18900","discount_rate":"0.325","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"BB/CC크림","cate_3_code":"001:005:003","brand_id":"7890"
+,"url":"","product_name":"매트벗 글로우 커버 베이지 SPF50+PA++++ 50ml"},
+{"brand_name":"아누아","item_id":"63394","price":"26000","sales_price":"13900","discount_rate":"0.465384615384615","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002","brand_id":"7890"
+,"url":"","product_name":"어성초 87 약산성 딥 클렌징워터 기획(500ml+100ml+거품용기)"},
+{"brand_name":"아누아","item_id":"69026","price":"19800","sales_price":"16500","discount_rate":"0.166666666666667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"7890"
+,"url":"","product_name":"어성초 센텔라 레드 스팟 크림 30g"},
+{"brand_name":"아누아","item_id":"69360","price":"59900","sales_price":"23500","discount_rate":"0.607679465776294","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7890"
+,"url":"","product_name":"아누아 피디알엔 캡슐 100 세럼 50ml 대용량 기획(+크림 10ml)"},
+{"brand_name":"아누아","item_id":"70767","price":"32000","sales_price":"14500","discount_rate":"0.546875","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"7890"
+,"url":"","product_name":"아누아 피디알엔 히알루론산 캡슐 100 크림 기획(60ml+10ml+마스크팩 2매)"},
+{"brand_name":"에스트라","item_id":"60983","price":"33000","sales_price":"26400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"711"
+,"url":"","product_name":"[only화해] NEW아토베리어365 크림 80ml기획(바디크림30ml+샤쉐)"},
+{"brand_name":"에스트라","item_id":"72340","price":"33000","sales_price":"26400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"711"
+,"url":"","product_name":"[only화해] 아토베리어365 로션 150ml기획(바디크림30ml+샤쉐)"},
+{"brand_name":"에스트라","item_id":"70506","price":"32000","sales_price":"25600","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"711"
+,"url":"","product_name":"[only화해] 아토베리어365 하이드로 에센스 200ml (사은품 증정)"},
+{"brand_name":"에스트라","item_id":"70590","price":"66000","sales_price":"49500","discount_rate":"0.25","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"711"
+,"url":"","product_name":"[1+1] [only화해] NEW아토베리어365 크림 80ml기획(바디크림30ml+샤쉐) * 2입"},
+{"brand_name":"에스트라","item_id":"72561","price":"66000","sales_price":"49500","discount_rate":"0.25","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"711"
+,"url":"","product_name":"[1+1] [only화해] 아토베리어365 로션 150ml기획(바디크림30ml+샤쉐) * 2입"},
+{"brand_name":"에스트라","item_id":"70592","price":"64000","sales_price":"48000","discount_rate":"0.25","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"711"
+,"url":"","product_name":"[1+1] [only화해] 아토베리어365 하이드로 에센스 200ml (사은품 증정)"},
+{"brand_name":"에스트라","item_id":"67813","price":"23000","sales_price":"18400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"711"
+,"url":"","product_name":"아토베리어365 크림 미스트 120ml"},
+{"brand_name":"에스트라","item_id":"27604","price":"20000","sales_price":"16000","discount_rate":"0.2","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"711"
+,"url":"","product_name":"아토베리어365 버블 클렌저 150ml"},
+{"brand_name":"에스트라","item_id":"48813","price":"38000","sales_price":"30400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"711"
+,"url":"","product_name":"에이시카 365 흔적 진정 세럼 40ml"},
+{"brand_name":"에스트라","item_id":"49690","price":"30000","sales_price":"24000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"711"
+,"url":"","product_name":"에이시카 365 수분진정 크림 60ml"},
+{"brand_name":"에스트라","item_id":"49689","price":"30000","sales_price":"24000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"711"
+,"url":"","product_name":"에이시카 365 수분진정 결 토너 250ml"},
+{"brand_name":"에스트라","item_id":"49687","price":"28000","sales_price":"22400","discount_rate":"0.2","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"711"
+,"url":"","product_name":"에이시카 365 소프트 진정 팩 패드 60매"},
+{"brand_name":"에스트라","item_id":"27603","price":"23000","sales_price":"18400","discount_rate":"0.2","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"711"
+,"url":"","product_name":"테라크네365 클리어 딥 클렌징 폼 200ml"},
+{"brand_name":"에스트라","item_id":"59251","price":"63000","sales_price":"47250","discount_rate":"0.25","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"711"
+,"url":"","product_name":"테라크네365 하이드로액티브토너 200ml + 수딩액티브모이스처라이저60ml"},
+{"brand_name":"에스트라","item_id":"50916","price":"31000","sales_price":"24800","discount_rate":"0.2","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"711"
+,"url":"","product_name":"더마UV365 장벽수분 무기자차 선크림 [SPF50+/PA++++] 40ml"},
+{"brand_name":"에스트라","item_id":"50915","price":"31000","sales_price":"24800","discount_rate":"0.2","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"711"
+,"url":"","product_name":"더마UV365 레드진정 톤업 선크림 [SPF50+/PA++++] 40ml"},
+{"brand_name":"에스트라","item_id":"56957","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"711"
+,"url":"","product_name":"리제덤365 모공탄력 캡슐세럼 30ml (사은품 증정)"},
+{"brand_name":"에스트라","item_id":"70740","price":"99000","sales_price":"71280","discount_rate":"0.28","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"711"
+,"url":"","product_name":"아토베리어 크림 * 3입"},
+{"brand_name":"라네즈","item_id":"61616","price":"36000","sales_price":"27000","discount_rate":"0.25","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"슬리핑팩","cate_3_code":"001:003:005","brand_id":"19"
+,"url":"","product_name":"바운시 앤 펌 슬리핑 마스크 60ml (사은품 증정)"},
+{"brand_name":"라네즈","item_id":"22469","price":"22000","sales_price":"15840","discount_rate":"0.28","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립케어/립밤","cate_3_code":"001:007:004","brand_id":"19"
+,"url":"","product_name":"립 슬리핑 마스크 EX [베리] 20g"},
+{"brand_name":"라네즈","item_id":"28596","price":"32000","sales_price":"22400","discount_rate":"0.3","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"슬리핑팩","cate_3_code":"001:003:005","brand_id":"19"
+,"url":"","product_name":"시카 슬리핑 마스크 60ml"},
+{"brand_name":"라네즈","item_id":"28595","price":"34000","sales_price":"24480","discount_rate":"0.28","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"슬리핑팩","cate_3_code":"001:003:005","brand_id":"19"
+,"url":"","product_name":"워터 슬리핑 마스크 70ml"},
+{"brand_name":"라네즈","item_id":"48280","price":"33000","sales_price":"23760","discount_rate":"0.28","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"19"
+,"url":"","product_name":"크림스킨 170ml (사은품 증정)"},
+{"brand_name":"라네즈","item_id":"59584","price":"42000","sales_price":"29400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"19"
+,"url":"","product_name":"워터뱅크 블루 히알루로닉 인텐시브 크림 50ml (사은품증정)"},
+{"brand_name":"라네즈","item_id":"59580","price":"42000","sales_price":"29400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"19"
+,"url":"","product_name":"워터뱅크 블루 히알루로닉 젤 크림 50ml (사은품증정)"},
+{"brand_name":"라네즈","item_id":"55458","price":"59000","sales_price":"42480","discount_rate":"0.28","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"19"
+,"url":"","product_name":"크림스킨 170ml + 리필 170ml + [사은품 증정]"},
+{"brand_name":"마녀공장","item_id":"72447","price":"35000","sales_price":"18400","discount_rate":"0.474285714285714","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"37"
+,"url":"","product_name":"only화해 퓨어클렌징오일 250ml 기획"},
+{"brand_name":"마녀공장","item_id":"58312","price":"24000","sales_price":"13800","discount_rate":"0.425","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"37"
+,"url":"","product_name":"딥 클리어 클렌징 밤 132ml"},
+{"brand_name":"마녀공장","item_id":"35549","price":"25000","sales_price":"14500","discount_rate":"0.42","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"37"
+,"url":"","product_name":"비피다 바이옴 앰플 토너 400ml"},
+{"brand_name":"마녀공장","item_id":"35554","price":"35000","sales_price":"18500","discount_rate":"0.471428571428571","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"37"
+,"url":"","product_name":"비피다 바이옴 콤플렉스 앰플 50ml"},
+{"brand_name":"마녀공장","item_id":"72506","price":"21000","sales_price":"18500","discount_rate":"0.119047619047619","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"37"
+,"url":"","product_name":"퓨어 소이빈 클렌징 밀크 200ml"},
+{"brand_name":"마녀공장","item_id":"70437","price":"36000","sales_price":"20800","discount_rate":"0.422222222222222","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"37"
+,"url":"","product_name":"갈락 나이아신 3.0 에센스 60ml"},
+{"brand_name":"유리피부","item_id":"52076","price":"43000","sales_price":"14400","discount_rate":"0.665116279069768","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"100"
+,"url":"","product_name":"[only화해] 그란떼클렌징오일 500ml 대용량 (+30ml 증정)"},
+{"brand_name":"유리피부","item_id":"19922","price":"38000","sales_price":"16500","discount_rate":"0.565789473684211","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"100"
+,"url":"","product_name":"비피다 클렌징 오일 300ml"},
+{"brand_name":"유리피부","item_id":"7649","price":"33000","sales_price":"15900","discount_rate":"0.518181818181818","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"100"
+,"url":"","product_name":"그란떼 포밍 클렌저 160ml"},
+{"brand_name":"유리피부","item_id":"70642","price":"31000","sales_price":"12900","discount_rate":"0.583870967741936","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"100"
+,"url":"","product_name":"그란떼 안티 헤어로스 샴푸 500ml"},
+{"brand_name":"유리피부","item_id":"71372","price":"36000","sales_price":"15500","discount_rate":"0.569444444444444","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"BB/CC크림","cate_3_code":"001:005:003","brand_id":"100"
+,"url":"","product_name":"셀룸 아마이드 BB 크림 [SPF50+/PA++++] [내추럴] 40g"},
+{"brand_name":"유리피부","item_id":"71373","price":"36000","sales_price":"15500","discount_rate":"0.569444444444444","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"BB/CC크림","cate_3_code":"001:005:003","brand_id":"100"
+,"url":"","product_name":"셀룸 아마이드 BB 크림 [SPF50+/PA++++] [브라이트플러스] 40g"},
+{"brand_name":"닥터올가","item_id":"71595","price":"66000","sales_price":"32500","discount_rate":"0.507575757575758","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"7646"
+,"url":"","product_name":"호호바 티트리 샴푸 1000g 대용량 기획 (+헤어롤 증정)"},
+{"brand_name":"닥터올가","item_id":"71596","price":"66000","sales_price":"32500","discount_rate":"0.507575757575758","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"7646"
+,"url":"","product_name":"약산성 어성초 바디워시 1000g 대용량 기획 (+샤워볼 증정)"},
+{"brand_name":"닥터올가","item_id":"7074","price":"27000","sales_price":"18900","discount_rate":"0.3","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"7646"
+,"url":"","product_name":"아르간&썬플라워 트리트먼트 헤어팩 210ml"},
+{"brand_name":"닥터올가","item_id":"35408","price":"38000","sales_price":"22800","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"7646"
+,"url":"","product_name":"프리미엄 썬 프로텍션 크림 60ml"},
+{"brand_name":"닥터올가","item_id":"26183","price":"29000","sales_price":"17400","discount_rate":"0.4","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"7646"
+,"url":"","product_name":"약산성 어성초 레드스팟 여드름 & 등드름 미스트 150ml"},
+{"brand_name":"닥터올가","item_id":"52005","price":"25000","sales_price":"17500","discount_rate":"0.3","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"린스/컨디셔너","cate_3_code":"001:009:002","brand_id":"7646"
+,"url":"","product_name":"데미지&컬러케어 알파인로즈 극손상 무실리콘 헤어 컨디셔너 210ml"},
+{"brand_name":"닥터올가","item_id":"71237","price":"54000","sales_price":"27000","discount_rate":"0.5","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"7646"
+,"url":"","product_name":"데미지&컬러케어 알파인 로즈 극손상 약산성 앰플 샴푸 325ml (1+1)"},
+{"brand_name":"닥터올가","item_id":"18721","price":"39000","sales_price":"23400","discount_rate":"0.4","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"7646"
+,"url":"","product_name":"다시마 탈모증상 완화샴푸 500ml"},
+{"brand_name":"닥터올가","item_id":"16934","price":"33000","sales_price":"16500","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"7646"
+,"url":"","product_name":"100 퓨어 타마누 라이트 오일 30ml"},
+{"brand_name":"닥터올가","item_id":"71367","price":"39000","sales_price":"25350","discount_rate":"0.35","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7646"
+,"url":"","product_name":"나이아신아마이드 & 트라넥삼산 7일 기미 앰플 50ml"},
+{"brand_name":"닥터올가","item_id":"7075","price":"28000","sales_price":"19600","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"젤","cate_3_code":"001:001:010","brand_id":"7646"
+,"url":"","product_name":"알로에 스킨 수딩 젤 210ml"},
+{"brand_name":"닥터올가","item_id":"59304","price":"39000","sales_price":"25350","discount_rate":"0.35","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7646"
+,"url":"","product_name":"바쿠치올 & 콜라겐 탄력 앰플 30ml"},
+{"brand_name":"닥터지","item_id":"59057","price":"62000","sales_price":"25500","discount_rate":"0.588709677419355","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"222"
+,"url":"","product_name":"레드 블레미쉬 클리어 수딩 크림 50ml(Jar) 듀오"},
+{"brand_name":"닥터지","item_id":"59058","price":"48000","sales_price":"22000","discount_rate":"0.541666666666667","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"222"
+,"url":"","product_name":"그린 마일드 업 선 플러스 35ml 듀오 기획세트"},
+{"brand_name":"딕셔니스트","item_id":"62204","price":"76000","sales_price":"23900","discount_rate":"0.685526315789474","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"12312"
+,"url":"","product_name":"아미노산 앰플 60ml 기획(앰플 30ml+10ml*3개+토너20ml)"},
+{"brand_name":"딕셔니스트","item_id":"66524","price":"56000","sales_price":"29900","discount_rate":"0.466071428571429","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"12312"
+,"url":"","product_name":"아미노산 로션 150ml 더블세트"},
+{"brand_name":"딕셔니스트","item_id":"66526","price":"96000","sales_price":"45800","discount_rate":"0.522916666666667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"12312"
+,"url":"","product_name":"아미노산 로션 풀케어 세트(로션 150ml + 토너 250ml + 앰플 30ml)"},
+{"brand_name":"딕셔니스트","item_id":"56470","price":"60000","sales_price":"27900","discount_rate":"0.535","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"12312"
+,"url":"","product_name":"아미노산 토너 250ml 더블세트"},
+{"brand_name":"딕셔니스트","item_id":"61379","price":"106000","sales_price":"43800","discount_rate":"0.586792452830189","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"12312"
+,"url":"","product_name":"아미노산 크림 풀케어 세트(크림 50ml + 토너 250ml + 앰플 30ml)"},
+{"brand_name":"잇츠스킨","item_id":"59743","price":"27000","sales_price":"14900","discount_rate":"0.448148148148148","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"56"
+,"url":"","product_name":"파워10 감초줄렌 이펙터 대용량 60ml기획세트(+젤리패드 2매입*5EA)"},
+{"brand_name":"잇츠스킨","item_id":"58946","price":"55400","sales_price":"27900","discount_rate":"0.496389891696751","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"56"
+,"url":"","product_name":"파워10 감초줄렌 진정 젤리패드 130매 + 감초줄렌 이펙터 30ML"},
+{"brand_name":"잇츠스킨","item_id":"59278","price":"50000","sales_price":"29900","discount_rate":"0.402","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"56"
+,"url":"","product_name":"파워10 감초줄렌 토너패드 듀오세트 60매 (2개입)"},
+{"brand_name":"잇츠스킨","item_id":"46822","price":"27000","sales_price":"14900","discount_rate":"0.448148148148148","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"56"
+,"url":"","product_name":"파워10 브이씨 이펙터(잡티케어) 60ml"},
+{"brand_name":"네이처리퍼블릭","item_id":"66293","price":"62000","sales_price":"31800","discount_rate":"0.487096774193548","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"26"
+,"url":"","product_name":"블랙빈 탈모증상 개선 샴푸 520ml (1+1)"},
+{"brand_name":"네이처리퍼블릭","item_id":"40095","price":"41000","sales_price":"25900","discount_rate":"0.368292682926829","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"26"
+,"url":"","product_name":"비타페어C 대용량 미백 잡티세럼 90ml"},
+{"brand_name":"네이처리퍼블릭","item_id":"68417","price":"27000","sales_price":"17900","discount_rate":"0.337037037037037","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"26"
+,"url":"","product_name":"비타페어C PDRN 광채세럼 30ml"},
+{"brand_name":"네이처리퍼블릭","item_id":"33858","price":"30000","sales_price":"14300","discount_rate":"0.523333333333333","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"26"
+,"url":"","product_name":"슈퍼 아쿠아 맥스 컴비네이션 수분크림 복합성용 80ml"},
+{"brand_name":"네이처리퍼블릭","item_id":"47894","price":"24000","sales_price":"15500","discount_rate":"0.354166666666667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"26"
+,"url":"","product_name":"비타페어C 블랜딩 세럼 미스트"},
+{"brand_name":"아페리레","item_id":"70668","price":"43000","sales_price":"19500","discount_rate":"0.546511627906977","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"워시오프 팩","cate_3_code":"001:003:003","brand_id":"4440"
+,"url":"","product_name":"스파 릴리프 비 프로즌 빙하토 모공팩 200g 대용량 기획 (+10g*3매 +브러쉬 증정)"},
+{"brand_name":"아페리레","item_id":"48393","price":"44000","sales_price":"22800","discount_rate":"0.481818181818182","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"4440"
+,"url":"","product_name":"순수 블루 토너패드 70매+리필 70매"},
+{"brand_name":"아페리레","item_id":"70503","price":"64000","sales_price":"22800","discount_rate":"0.64375","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"4440"
+,"url":"","product_name":"비 프로즌 포어 앰플 30ml(1+1)"},
+{"brand_name":"아페리레","item_id":"70502","price":"60000","sales_price":"22800","discount_rate":"0.62","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"4440"
+,"url":"","product_name":"유스풀 프로즌 워터 크림 45ml (1+1)"},
+{"brand_name":"아페리레","item_id":"58906","price":"60000","sales_price":"20800","discount_rate":"0.653333333333333","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"4440"
+,"url":"","product_name":"바운싱 루트 오리진 크림 45ml (1+1)"},
+{"brand_name":"벤튼","item_id":"54850","price":"28000","sales_price":"16900","discount_rate":"0.396428571428571","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"197"
+,"url":"","product_name":"벤튼 시카 수분 선세럼 SPF50+/PA++++ 50mL"},
+{"brand_name":"벤튼","item_id":"13050","price":"22000","sales_price":"15500","discount_rate":"0.295454545454545","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선스틱","cate_3_code":"001:004:004","brand_id":"197"
+,"url":"","product_name":"무기자차 선스틱"},
+{"brand_name":"벤튼","item_id":"33350","price":"20000","sales_price":"14000","discount_rate":"0.3","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"197"
+,"url":"","product_name":"스킨핏 미네랄 선크림"},
+{"brand_name":"벤튼","item_id":"48112","price":"36000","sales_price":"21600","discount_rate":"0.4","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"197"
+,"url":"","product_name":"구아바 70 스킨토너 진정 패드팩 (70매)"},
+{"brand_name":"벤튼","item_id":"33402","price":"26000","sales_price":"22400","discount_rate":"0.138461538461538","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"197"
+,"url":"","product_name":"맥주 효모 샴푸"},
+{"brand_name":"크리티","item_id":"69903","price":"49000","sales_price":"22500","discount_rate":"0.540816326530612","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"18234"
+,"url":"","product_name":"[only화해] 락토 프로바이오틱스 포밍워시 티트리 기획(본품175ml+리필180ml+젤링워시30ml)"},
+{"brand_name":"크리티","item_id":"62389","price":"29000","sales_price":"15600","discount_rate":"0.462068965517241","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"18234"
+,"url":"","product_name":"락토 프로바이오틱스 리쥬브네이팅 포밍워시 무향 (175ml)"},
+{"brand_name":"크리티","item_id":"62413","price":"27000","sales_price":"14600","discount_rate":"0.459259259259259","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"18234"
+,"url":"","product_name":"락토 프로바이오틱스 리쥬브네이팅 젤링워시 티트리 (180ml)"},
+{"brand_name":"크리티","item_id":"62412","price":"27000","sales_price":"14600","discount_rate":"0.459259259259259","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"18234"
+,"url":"","product_name":"락토 프로바이오틱스 리쥬브네이팅 젤링워시 무향 (180ml)"},
+{"brand_name":"닥터트웬티프로젝트","item_id":"70460","price":"58000","sales_price":"23500","discount_rate":"0.594827586206897","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"13349"
+,"url":"","product_name":"나인 토너 300ml (1+1)"},
+{"brand_name":"닥터트웬티프로젝트","item_id":"70464","price":"66000","sales_price":"24500","discount_rate":"0.628787878787879","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13349"
+,"url":"","product_name":"나인 크림 50ml (1+1)"},
+{"brand_name":"닥터트웬티프로젝트","item_id":"70461","price":"70000","sales_price":"24500","discount_rate":"0.65","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13349"
+,"url":"","product_name":"나인 세럼 50ml (1+1)"},
+{"brand_name":"닥터트웬티프로젝트","item_id":"71935","price":"32000","sales_price":"19500","discount_rate":"0.390625","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"13349"
+,"url":"","product_name":"나인 클렌징폼 150ml (1+1)"},
+{"brand_name":"닥터트웬티프로젝트","item_id":"71936","price":"40000","sales_price":"19500","discount_rate":"0.5125","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"13349"
+,"url":"","product_name":"나인 마스크 1Box (27ml x 5매) (1+1)"},
+{"brand_name":"에끌라두","item_id":"69716","price":"110000","sales_price":"16900","discount_rate":"0.846363636363636","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"707"
+,"url":"","product_name":"아줄렌 모이스트 수분 세럼 33g (1+1)"},
+{"brand_name":"에끌라두","item_id":"69714","price":"144000","sales_price":"23900","discount_rate":"0.834027777777778","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"707"
+,"url":"","product_name":"아줄렌 모이스트 수분 세럼 33g&크림 80g 기획"},
+{"brand_name":"에끌라두","item_id":"71737","price":"89000","sales_price":"16900","discount_rate":"0.810112359550562","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"707"
+,"url":"","product_name":"아줄렌 모이스트 수분 크림 80+10g"},
+{"brand_name":"에끌라두","item_id":"71736","price":"55000","sales_price":"12900","discount_rate":"0.765454545454545","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"707"
+,"url":"","product_name":"아줄렌 모이스트 수분 세럼 33g"},
+{"brand_name":"토코보","item_id":"53595","price":"24000","sales_price":"19200","discount_rate":"0.2","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"14058"
+,"url":"","product_name":"바이오 워터리 선크림 [SPF50+/PA++++] 50mL"},
+{"brand_name":"토코보","item_id":"53598","price":"25000","sales_price":"15000","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"14058"
+,"url":"","product_name":"비타 톤업 선크림 [SPF50+/PA++++] 50mL"},
+{"brand_name":"토코보","item_id":"54721","price":"20000","sales_price":"17000","discount_rate":"0.15","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립케어/립밤","cate_3_code":"001:007:004","brand_id":"14058"
+,"url":"","product_name":"비타 글레이즈드 립 마스크 20mL"},
+{"brand_name":"토코보","item_id":"62019","price":"24000","sales_price":"19200","discount_rate":"0.2","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"14058"
+,"url":"","product_name":"시카 카밍 선세럼 [SPF50+/PA++++] 50mL"},
+{"brand_name":"토코보","item_id":"66233","price":"20000","sales_price":"17000","discount_rate":"0.15","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립케어/립밤","cate_3_code":"001:007:004","brand_id":"14058"
+,"url":"","product_name":"민트 쿨링 립 마스크 20mL"},
+{"brand_name":"가히","item_id":"73172","price":"56000","sales_price":"33600","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선스틱","cate_3_code":"001:004:004","brand_id":"11230"
+,"url":"","product_name":"가히 에어리핏 선스틱(14g) 2개"},
+{"brand_name":"가히","item_id":"73173","price":"56000","sales_price":"33600","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선스틱","cate_3_code":"001:004:004","brand_id":"11230"
+,"url":"","product_name":"가히 벨벳 글로우 선스틱 (13.5g) 2개"},
+{"brand_name":"가히","item_id":"72415","price":"42000","sales_price":"25200","discount_rate":"0.4","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"밤/멀티밤","cate_3_code":"001:001:012","brand_id":"11230"
+,"url":"","product_name":"가히 서울 링클바운스 멀티밤 (9g)"},
+{"brand_name":"가히","item_id":"73189","price":"84000","sales_price":"42000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"밤/멀티밤","cate_3_code":"001:001:012","brand_id":"11230"
+,"url":"","product_name":"가히 서울 링클바운스 멀티밤 (9g) 1+1 더블구성"},
+{"brand_name":"가히","item_id":"73449","price":"42000","sales_price":"25200","discount_rate":"0.4","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"아이케어","cate_3_code":"001:001:006","brand_id":"11230"
+,"url":"","product_name":"아이밤 (9g)"},
+{"brand_name":"메디솝","item_id":"68532","price":"43000","sales_price":"30600","discount_rate":"0.288372093023256","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"18838"
+,"url":"","product_name":"B5 크림 100ml"},
+{"brand_name":"메디솝","item_id":"68511","price":"33000","sales_price":"21900","discount_rate":"0.336363636363636","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"18838"
+,"url":"","product_name":"필링 트리트먼트 앰플 30ml"},
+{"brand_name":"수이스킨","item_id":"61962","price":"32000","sales_price":"13900","discount_rate":"0.565625","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"336"
+,"url":"","product_name":"[ONLY화해] 어린 새싹 딥 클렌징 폼 150ml 더블 기획"},
+{"brand_name":"수이스킨","item_id":"72842","price":"28000","sales_price":"14900","discount_rate":"0.467857142857143","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"336"
+,"url":"","product_name":"어린 새싹 포어 타이트닝 세럼 50ml"},
+{"brand_name":"수이스킨","item_id":"68869","price":"26000","sales_price":"12900","discount_rate":"0.503846153846154","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"336"
+,"url":"","product_name":"어린 새싹 포어 컨트롤 패드 70매"},
+{"brand_name":"수이스킨","item_id":"28141","price":"22000","sales_price":"12000","discount_rate":"0.454545454545455","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"336"
+,"url":"","product_name":"화사한 유채 클렌징 밤 90ml"},
+{"brand_name":"수이스킨","item_id":"42926","price":"30000","sales_price":"9900","discount_rate":"0.67","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"336"
+,"url":"","product_name":"편안한 진정초 시트 마스크 1BOX (25ml*10매)"},
+{"brand_name":"주미소","item_id":"58875","price":"18000","sales_price":"12600","discount_rate":"0.3","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"9103"
+,"url":"","product_name":"포어 퓨리파잉 살리실산 클렌징폼 120g"},
+{"brand_name":"주미소","item_id":"60860","price":"32000","sales_price":"19200","discount_rate":"0.4","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"9103"
+,"url":"","product_name":"안티옥시던트 글로우 페이셜 에센스 40ml"},
+{"brand_name":"주미소","item_id":"62880","price":"24000","sales_price":"16800","discount_rate":"0.3","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"9103"
+,"url":"","product_name":"포어 클리어링 클렌징 오일 200ml"},
+{"brand_name":"주미소","item_id":"68408","price":"28000","sales_price":"19500","discount_rate":"0.303571428571429","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"9103"
+,"url":"","product_name":"D-판테놀 베리어 수딩 크림 80ml"},
+{"brand_name":"엠디스픽","item_id":"43731","price":"31000","sales_price":"19900","discount_rate":"0.358064516129032","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"핸드크림/밤","cate_3_code":"001:008:007","brand_id":"3469"
+,"url":"","product_name":"드 바리스타 무향 핸드크림 대용량 300g"},
+{"brand_name":"엠디스픽","item_id":"43732","price":"35000","sales_price":"25900","discount_rate":"0.26","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"핸드크림/밤","cate_3_code":"001:008:007","brand_id":"3469"
+,"url":"","product_name":"드 바리스타 무향 고보습 핸드크림 (울트라) 300g"},
+{"brand_name":"엠디스픽","item_id":"43725","price":"26000","sales_price":"18900","discount_rate":"0.273076923076923","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디로션","cate_3_code":"001:008:002","brand_id":"3469"
+,"url":"","product_name":"바리스타 리페어 무향 페이스 앤 바디로션 500ml (대용량)"},
+{"brand_name":"엠디스픽","item_id":"44342","price":"16000","sales_price":"13000","discount_rate":"0.1875","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"핸드크림/밤","cate_3_code":"001:008:007","brand_id":"3469"
+,"url":"","product_name":"드 바리스타 무향 핸드크림 50g (1+1)"},
+{"brand_name":"엠디스픽","item_id":"55876","price":"20000","sales_price":"16000","discount_rate":"0.2","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"핸드크림/밤","cate_3_code":"001:008:007","brand_id":"3469"
+,"url":"","product_name":"드 바리스타 무향 핸드크림 울트라 50g 2개"},
+{"brand_name":"플루","item_id":"44229","price":"29800","sales_price":"13800","discount_rate":"0.536912751677852","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디스크럽","cate_3_code":"001:008:005","brand_id":"846"
+,"url":"","product_name":"오리지널 바디스크럽 200g 화이트머스크 (2개입)"},
+{"brand_name":"플루","item_id":"45085","price":"27800","sales_price":"12800","discount_rate":"0.539568345323741","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디스크럽","cate_3_code":"001:008:005","brand_id":"846"
+,"url":"","product_name":"프레스티지 테라피 에디션 바디스크럽 180g (2개입)"},
+{"brand_name":"플루","item_id":"59242","price":"35800","sales_price":"21800","discount_rate":"0.391061452513967","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"846"
+,"url":"","product_name":"아로마 퍼퓸 스크럽 바디워시 소피블랑 1000ml (2개입)"},
+{"brand_name":"플루","item_id":"44395","price":"25800","sales_price":"12800","discount_rate":"0.503875968992248","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"846"
+,"url":"","product_name":"페이셜 필링젤 100g 피치 (2개입)"},
+{"brand_name":"플루","item_id":"44396","price":"25800","sales_price":"12800","discount_rate":"0.503875968992248","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"846"
+,"url":"","product_name":"페이셜 스크럽 100g 허니앤슈가 (2개입)"},
+{"brand_name":"아이소이","item_id":"67939","price":"19800","sales_price":"14900","discount_rate":"0.247474747474748","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"컬러 립케어/립밤","cate_3_code":"001:007:005","brand_id":"38"
+,"url":"","product_name":"립 트리트먼트 밤 베리로즈 5g"},
+{"brand_name":"아이소이","item_id":"148","price":"19800","sales_price":"14900","discount_rate":"0.247474747474748","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"컬러 립케어/립밤","cate_3_code":"001:007:005","brand_id":"38"
+,"url":"","product_name":"립 트리트먼트 밤 퓨어레드 5g"},
+{"brand_name":"아이소이","item_id":"42794","price":"36000","sales_price":"24900","discount_rate":"0.308333333333333","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"38"
+,"url":"","product_name":"모이스춰 닥터 크림 70ml"},
+{"brand_name":"아이소이","item_id":"71927","price":"70000","sales_price":"43900","discount_rate":"0.372857142857143","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"38"
+,"url":"","product_name":"브라이트닝 세럼 50ml"},
+{"brand_name":"아이소이","item_id":"57595","price":"24800","sales_price":"16900","discount_rate":"0.318548387096774","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크/팩","cate_3_code":"001:003:002","brand_id":"38"
+,"url":"","product_name":"블레미쉬 케어 아이 앤 미간 패치 90매"},
+{"brand_name":"하나린","item_id":"68439","price":"70000","sales_price":"33000","discount_rate":"0.528571428571429","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"17173"
+,"url":"","product_name":"포스트바이오틱스 안티 헤어로스 탈모 완화 샴푸 500g 더블기획"},
+{"brand_name":"웰라쥬","item_id":"61888","price":"34000","sales_price":"19500","discount_rate":"0.426470588235294","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1872"
+,"url":"","product_name":"[only화해] 리얼 히알루로닉 블루 100 앰플 리필기획 (본품 60ml+리필 60ml)"},
+{"brand_name":"뷰티레시피","item_id":"34964","price":"48000","sales_price":"17900","discount_rate":"0.627083333333333","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002","brand_id":"498"
+,"url":"","product_name":"리틀머메이드 클렌징워터 500ml (2개)"},
+{"brand_name":"뷰티레시피","item_id":"66830","price":"58000","sales_price":"19900","discount_rate":"0.656896551724138","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디스크럽","cate_3_code":"001:008:005","brand_id":"498"
+,"url":"","product_name":"스노우화이트 인그로운헤어 에프터 왁싱스크럽 500g (2개)"},
+{"brand_name":"뷰티레시피","item_id":"39356","price":"38000","sales_price":"15900","discount_rate":"0.581578947368421","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"498"
+,"url":"","product_name":"리틀머메이드 프로바이오틱스 페미닌워시 300ml (2개)"},
+{"brand_name":"안달로우 내추럴스","item_id":"67960","price":"35000","sales_price":"28000","discount_rate":"0.2","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"2083"
+,"url":"","product_name":"천송이 로즈 클렌징폼 163ml"},
+{"brand_name":"안달로우 내추럴스","item_id":"59902","price":"45000","sales_price":"34900","discount_rate":"0.224","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"2083"
+,"url":"","product_name":"아르간 스템셀 에이지 디파잉 샴푸 대용량 946ml"},
+{"brand_name":"안달로우 내추럴스","item_id":"67879","price":"20000","sales_price":"16900","discount_rate":"0.155","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"린스/컨디셔너","cate_3_code":"001:009:002","brand_id":"2083"
+,"url":"","product_name":"아르간 스템셀 에이지 디파잉 컨디셔너 340ml"},
+{"brand_name":"안달로우 내추럴스","item_id":"59938","price":"40000","sales_price":"31900","discount_rate":"0.203","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"2083"
+,"url":"","product_name":"아르간 스템셀 에이지 디파잉 샴푸 340ml (2개입)"},
+{"brand_name":"에이트루","item_id":"34616","price":"46000","sales_price":"16900","discount_rate":"0.6326","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"52"
+,"url":"","product_name":"오리진 퓨어 밸런싱 클렌징 오일 300ml"},
+{"brand_name":"에이트루","item_id":"35079","price":"34000","sales_price":"15800","discount_rate":"0.5353","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"52"
+,"url":"","product_name":"오리진 퓨어 밸런싱 클렌징 폼 150ml (2개입)"},
+{"brand_name":"에이트루","item_id":"48190","price":"66000","sales_price":"25800","discount_rate":"0.6091","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"52"
+,"url":"","product_name":"오리진 카밍 릴리프 크림 80ml (2개입)"},
+{"brand_name":"에이트루","item_id":"5914","price":"17000","sales_price":"9900","discount_rate":"0.4176","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"52"
+,"url":"","product_name":"오리진 퓨어 밸런싱 클렌징 폼 150ml"},
+{"brand_name":"프리메이","item_id":"56822","price":"40000","sales_price":"15700","discount_rate":"0.6075","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"12841"
+,"url":"","product_name":"[only화해] 올리브 시카 카밍 앰플 마스크 20매"},
+{"brand_name":"프리메이","item_id":"61437","price":"56000","sales_price":"16900","discount_rate":"0.6982","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"12841"
+,"url":"","product_name":"[only화해] 진정한 수분크림 기획세트"},
+{"brand_name":"프리메이","item_id":"67870","price":"36000","sales_price":"14500","discount_rate":"0.5972","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"12841"
+,"url":"","product_name":"[only화해] 트리플 이펙트 시너지 세럼 기획세트"},
+{"brand_name":"프리메이","item_id":"43201","price":"56000","sales_price":"16400","discount_rate":"0.7321","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"12841"
+,"url":"","product_name":"어성초 진정해 수분 토너 350ml 1+1 더블기획"},
+{"brand_name":"프리메이","item_id":"66747","price":"36000","sales_price":"13000","discount_rate":"0.6528","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"12841"
+,"url":"","product_name":"리얼 딥 클렌징오일 330ml + 50ml"},
+{"brand_name":"리더스","item_id":"51313","price":"84000","sales_price":"14900","discount_rate":"0.8226","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"204"
+,"url":"","product_name":"그린 콜라겐 아이크림 포 페이스 3개"},
+{"brand_name":"리더스코스메틱","item_id":"71838","price":"24000","sales_price":"18900","discount_rate":"0.2125","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"204"
+,"url":"","product_name":"[1+1] PDRN 0.5% 에센스 패드 135ml (70매)"},
+{"brand_name":"리더스코스메틱","item_id":"71656","price":"24000","sales_price":"18900","discount_rate":"0.2125","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"204"
+,"url":"","product_name":"[1+1] 리더스 PDRN 5% 액티브 앰플 30ml"},
+{"brand_name":"리더스코스메틱","item_id":"73247","price":"23000","sales_price":"18200","discount_rate":"0.2087","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"204"
+,"url":"","product_name":"PDRN 5% 액티브 앰플 30ml+0.5%앰플 미스트100ml"},
+{"brand_name":"리더스코스메틱","item_id":"59604","price":"18000","sales_price":"11900","discount_rate":"0.3389","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"204"
+,"url":"","product_name":"보습영양패드(60매)"},
+{"brand_name":"릴리바이레드","item_id":"70983","price":"31000","sales_price":"21800","discount_rate":"0.297","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"2947"
+,"url":"","product_name":"듀이 핏 팔레트 [03 오트밀] 12.7g"},
+{"brand_name":"릴리바이레드","item_id":"73830","price":"14000","sales_price":"10500","discount_rate":"0.25","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립틴트","cate_3_code":"001:007:002","brand_id":"2947"
+,"url":"","product_name":"슈가 랩핑 틴트 글로스 [01 딱복시럽]"},
+{"brand_name":"릴리바이레드","item_id":"73831","price":"14000","sales_price":"10500","discount_rate":"0.25","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립틴트","cate_3_code":"001:007:002","brand_id":"2947"
+,"url":"","product_name":"슈가 랩핑 틴트 글로스 [02 무화과카라멜]"},
+{"brand_name":"릴리바이레드","item_id":"73837","price":"12000","sales_price":"8900","discount_rate":"0.258","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"2947"
+,"url":"","product_name":"스마일리 아이 블렌딩 스틱 쉬머 [01 방긋슈가]"},
+{"brand_name":"릴리바이레드","item_id":"73840","price":"12000","sales_price":"8900","discount_rate":"0.258","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"2947"
+,"url":"","product_name":"스마일리 아이 블렌딩 스틱 쉬머 [02 부끄베리]"},
+{"brand_name":"셀리맥스","item_id":"42944","price":"34000","sales_price":"20000","discount_rate":"0.412","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링 패드","cate_3_code":"001:002:010","brand_id":"3850"
+,"url":"","product_name":"어성초 바하 지우개 패드 60매 (2개)"},
+{"brand_name":"셀리맥스","item_id":"71804","price":"48000","sales_price":"34900","discount_rate":"0.273","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"3850"
+,"url":"","product_name":"시카 지우개패드 60매 (2개)"},
+{"brand_name":"에센허브","item_id":"45012","price":"68000","sales_price":"24900","discount_rate":"0.63","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"230"
+,"url":"","product_name":"에센허브 티트리 100 오일 20ml"},
+{"brand_name":"에센허브","item_id":"51269","price":"34000","sales_price":"19800","discount_rate":"0.42","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"230"
+,"url":"","product_name":"에센허브 티트리 수딩 인 카밍 크림 80ml"},
+{"brand_name":"에센허브","item_id":"32231","price":"42000","sales_price":"23900","discount_rate":"0.43","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"230"
+,"url":"","product_name":"에센허브 아크네 티트리 데일리 바디 워시 500ml"},
+{"brand_name":"에센허브","item_id":"32229","price":"42000","sales_price":"23900","discount_rate":"0.43","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"230"
+,"url":"","product_name":"에센허브 티트리 딥클린 스칼프 샴푸 500ml"},
+{"brand_name":"화해에센셜","item_id":"59331","price":"20000","sales_price":"9900","discount_rate":"0.505","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"17689"
+,"url":"","product_name":"데일리 토너 300ml"},
+{"brand_name":"화해에센셜","item_id":"59332","price":"40000","sales_price":"16900","discount_rate":"0.5775","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"17689"
+,"url":"","product_name":"데일리 토너 300ml 더블 세트"},
+{"brand_name":"화해에센셜","item_id":"59596","price":"22000","sales_price":"9900","discount_rate":"0.55","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"17689"
+,"url":"","product_name":"데일리 세럼 50ml"},
+{"brand_name":"화해에센셜","item_id":"59597","price":"44000","sales_price":"16900","discount_rate":"0.6159","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"17689"
+,"url":"","product_name":"데일리 세럼 50ml 더블 세트"},
+{"brand_name":"일소","item_id":"60170","price":"26000","sales_price":"19800","discount_rate":"0.2385","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"13221"
+,"url":"","product_name":"슈퍼 멜팅 세범 소프트너 150ml (+증정: 착붙 코튼패드 40매)"},
+{"brand_name":"일소","item_id":"60174","price":"17000","sales_price":"12500","discount_rate":"0.2647","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"코팩","cate_3_code":"001:003:007","brand_id":"13221"
+,"url":"","product_name":"네추럴 마일드 클리어 노우즈 팩 5매입 바이오셀룰로오스"},
+{"brand_name":"일소","item_id":"61466","price":"34000","sales_price":"25000","discount_rate":"0.2647","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"코팩","cate_3_code":"001:003:007","brand_id":"13221"
+,"url":"","product_name":"[2개세트] 네추럴 마일드 클리어 노우즈 팩 바이오셀룰로오스 5매입"},
+{"brand_name":"일소","item_id":"60186","price":"24000","sales_price":"17900","discount_rate":"0.2542","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"13221"
+,"url":"","product_name":"네추럴 마일드 클렌징 오일 200ml"},
+{"brand_name":"매스티나","item_id":"58902","price":"69000","sales_price":"18900","discount_rate":"0.7261","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"11999"
+,"url":"","product_name":"화이트매스틱 블레미쉬 바디케어 2종 세트 (바디미스트 150ml+바디워시 400ml)"},
+{"brand_name":"매스티나","item_id":"55641","price":"43000","sales_price":"9900","discount_rate":"0.7698","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"11999"
+,"url":"","product_name":"화이트매스틱 블레미쉬 바디미스트 150ml"},
+{"brand_name":"매스티나","item_id":"57464","price":"86000","sales_price":"16900","discount_rate":"0.8035","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"11999"
+,"url":"","product_name":"화이트매스틱 블레미쉬 바디미스트 150ml (2개묶음)"},
+{"brand_name":"매스티나","item_id":"58899","price":"52000","sales_price":"17900","discount_rate":"0.6558","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"11999"
+,"url":"","product_name":"화이트매스틱 토너패드 60매 (2개묶음)"},
+{"brand_name":"린제이","item_id":"66738","price":"21800","sales_price":"8900","discount_rate":"0.5917","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"130"
+,"url":"","product_name":"진정약초 모델링팩(330g)"},
+{"brand_name":"린제이","item_id":"66744","price":"21800","sales_price":"8900","discount_rate":"0.5917","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"130"
+,"url":"","product_name":"쿨링밤 모델링팩(330g)"},
+{"brand_name":"린제이","item_id":"66651","price":"28000","sales_price":"15900","discount_rate":"0.4321","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"130"
+,"url":"","product_name":"쿨 티트리 모델링팩 1kg 기획 (+보습앰플 100ml+팩도구세트)"},
+{"brand_name":"린제이","item_id":"66664","price":"28000","sales_price":"15900","discount_rate":"0.4321","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"130"
+,"url":"","product_name":"비타민 모델링팩 1kg 기획 (+보습앰플 100ml+팩도구세트)"},
+{"brand_name":"린제이","item_id":"66676","price":"28000","sales_price":"15900","discount_rate":"0.4321","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"130"
+,"url":"","product_name":"차콜 모델링팩 1kg 기획 (+보습앰플 100ml+팩도구세트)"},
+{"brand_name":"모레모","item_id":"5383","price":"14000","sales_price":"11900","discount_rate":"0.15","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"3374"
+,"url":"","product_name":"헤어 에센스 딜라이트풀 오일 70ml"},
+{"brand_name":"모레모","item_id":"69393","price":"39000","sales_price":"25900","discount_rate":"0.3359","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"3374"
+,"url":"","product_name":"헤어 트리트먼트 미라클 2X 시그니처 에디션 480ml"},
+{"brand_name":"모레모","item_id":"66397","price":"18500","sales_price":"11900","discount_rate":"0.3568","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"3374"
+,"url":"","product_name":"헤어 트리트먼트 미라클 2X 180ml"},
+{"brand_name":"모레모","item_id":"66393","price":"48000","sales_price":"31900","discount_rate":"0.3354","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"3374"
+,"url":"","product_name":"(1+1) 헤어 에센스 딜라이트풀 오일 120ml"},
+{"brand_name":"에스네이처","item_id":"73817","price":"46000","sales_price":"25300","discount_rate":"0.45","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"1237"
+,"url":"","product_name":"아쿠아 라이스 클렌징 밀크 기획세트 (280ml+150ml+폼 20ml)"},
+{"brand_name":"에스네이처","item_id":"26143","price":"53000","sales_price":"19500","discount_rate":"0.6321","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1237"
+,"url":"","product_name":"아쿠아 오아시스 토너 300ml 더블 기획(토너+토너+화장솜)"},
+{"brand_name":"에스네이처","item_id":"45194","price":"75000","sales_price":"29500","discount_rate":"0.6067","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1237"
+,"url":"","product_name":"아쿠아 스쿠알란 수분크림 80ml 더블+세럼 10ml 세트"},
+{"brand_name":"에스네이처","item_id":"7130","price":"89000","sales_price":"21500","discount_rate":"0.7584","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1237"
+,"url":"","product_name":"아쿠아 콜라겐 펩타이드 젤에센스 50ml 1+1 더블 기획 (+토너 12ml)"},
+{"brand_name":"에스네이처","item_id":"45153","price":"40000","sales_price":"22900","discount_rate":"0.4275","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1237"
+,"url":"","product_name":"아쿠아 스쿠알란 세럼 100ml + 마스크팩 1매"},
+{"brand_name":"에스네이처","item_id":"48278","price":"31000","sales_price":"19500","discount_rate":"0.371","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"1237"
+,"url":"","product_name":"아쿠아 라이스 약산성 클렌징폼 160ml+80ml+클렌징오일 13ml 기획세트"},
+{"brand_name":"퓨리피아","item_id":"63857","price":"22600","sales_price":"16500","discount_rate":"0.2699","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"8793"
+,"url":"","product_name":"메타바이옴 토너패드 60매(180ml)"},
+{"brand_name":"퓨리피아","item_id":"63549","price":"48000","sales_price":"26500","discount_rate":"0.4479","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"8793"
+,"url":"","product_name":"하이드라 모이스처 케어 솔루션 토너패드1+1"},
+{"brand_name":"퓨리피아","item_id":"59997","price":"39000","sales_price":"16500","discount_rate":"0.5769","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"8793"
+,"url":"","product_name":"시카카밍 케어 솔루션 토너패드 1+1"},
+{"brand_name":"퓨리피아","item_id":"63216","price":"27000","sales_price":"15500","discount_rate":"0.4259","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"8793"
+,"url":"","product_name":"메타바이옴 에센스 토너"},
+{"brand_name":"퓨리피아","item_id":"70431","price":"55000","sales_price":"27500","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"8793"
+,"url":"","product_name":"메타바이옴 보타닉 앰플 30ml"},
+{"brand_name":"유이크","item_id":"73200","price":"52000","sales_price":"29800","discount_rate":"0.4269","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"12592"
+,"url":"","product_name":"피에이치 밸런싱 토너 300ml 더블기획 (+수분선크림 미니 증정)"},
+{"brand_name":"유이크","item_id":"68182","price":"37000","sales_price":"27800","discount_rate":"0.2486","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"12592"
+,"url":"","product_name":"바이옴 베리어 판텐시브 크림 50ml (+미니 증정)"},
+{"brand_name":"유이크","item_id":"70285","price":"35000","sales_price":"26250","discount_rate":"0.25","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"12592"
+,"url":"","product_name":"바이옴 레미디 아크네 클렌징 폼 150ml+50ml 기획세트 (+수딩크림 증정)"},
+{"brand_name":"유이크","item_id":"71508","price":"30000","sales_price":"17900","discount_rate":"0.4033","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"컬러 립케어/립밤","cate_3_code":"001:007:005","brand_id":"12592"
+,"url":"","product_name":"[1+1] 바이옴 베리어 멜팅 모이스처 립밤 (모브라이즈+ 오리지널)"},
+{"brand_name":"유이크","item_id":"71515","price":"30000","sales_price":"14800","discount_rate":"0.5067","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"컬러 립케어/립밤","cate_3_code":"001:007:005","brand_id":"12592"
+,"url":"","product_name":"[1+1] 바이옴 베리어 멜팅 모이스처 립밤 (로지+오리지널)"},
+{"brand_name":"라보에이치","item_id":"58343","price":"20000","sales_price":"12900","discount_rate":"0.355","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"두피 스케일러","cate_3_code":"001:009:008","brand_id":"10814"
+,"url":"","product_name":"두피강화 클리닉 스케일러 탈모증상완화 208g"},
+{"brand_name":"려","item_id":"53575","price":"19900","sales_price":"16820","discount_rate":"0.1548","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"437"
+,"url":"","product_name":"루트젠 탈모증상전문케어 두피에센스 80ml"},
+{"brand_name":"미쟝센","item_id":"33068","price":"30000","sales_price":"16820","discount_rate":"0.4393","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"657"
+,"url":"","product_name":"퍼펙트 오리지널 세럼 80ml (2입)"},
+{"brand_name":"미쟝센","item_id":"42522","price":"30000","sales_price":"17000","discount_rate":"0.4333","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"657"
+,"url":"","product_name":"퍼펙트 슈퍼리치 세럼 80ml (2입)"},
+{"brand_name":"미쟝센","item_id":"33070","price":"30000","sales_price":"17000","discount_rate":"0.4333","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"657"
+,"url":"","product_name":"퍼펙트 스타일링 세럼 80ml (2입)"},
+{"brand_name":"일리윤","item_id":"42739","price":"35800","sales_price":"19500","discount_rate":"0.4553","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디로션","cate_3_code":"001:008:002","brand_id":"162"
+,"url":"","product_name":"프레쉬 모이스춰 로션 350ml (2개입)"},
+{"brand_name":"일리윤","item_id":"68569","price":"23000","sales_price":"18100","discount_rate":"0.213","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"162"
+,"url":"","product_name":"세라마이드 아토 속보습 스킨 250ml"},
+{"brand_name":"일리윤","item_id":"69789","price":"14900","sales_price":"10500","discount_rate":"0.2953","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"162"
+,"url":"","product_name":"세라마이드 아토 5.0 약산성 저자극 무향 젠틀 스킨 클렌져 400ml"},
+{"brand_name":"해피바스","item_id":"42509","price":"19800","sales_price":"17200","discount_rate":"0.1313","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"오리지널컬렉션 약산성 바디워시 [베이비파우더] 910g (2입)"},
+{"brand_name":"해피바스","item_id":"42511","price":"19800","sales_price":"17200","discount_rate":"0.1313","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"오리지널컬렉션 약산성 바디워시 [솝라벤더] 910g (2입)"},
+{"brand_name":"해피바스","item_id":"42514","price":"19800","sales_price":"17200","discount_rate":"0.1313","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"오리지널컬렉션 약산성 바디워시 [체리블로섬] 910g (2입)"},
+{"brand_name":"해피바스","item_id":"42517","price":"19800","sales_price":"17200","discount_rate":"0.1313","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"오리지널컬렉션 약산성 바디워시 [클린코튼] 910g (2입)"},
+{"brand_name":"해피바스","item_id":"62193","price":"25800","sales_price":"18200","discount_rate":"0.2946","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"딥클린 타우린 쿨링케어 바디워시 900g (2입)"},
+{"brand_name":"해피바스","item_id":"62194","price":"25800","sales_price":"18500","discount_rate":"0.2829","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"29"
+,"url":"","product_name":"딥클린 아하바하 각질케어 바디워시 900g (2입)"},
+{"brand_name":"결하우스","item_id":"73420","price":"44000","sales_price":"18900","discount_rate":"0.5705","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"18889"
+,"url":"","product_name":"호호바 오일 30ml+5ml 기획"},
+{"brand_name":"결 하우스","item_id":"66032","price":"42000","sales_price":"19500","discount_rate":"0.5357","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"18889"
+,"url":"","product_name":"울트라 모이스처 호호바 세럼 앤 크림 60G"},
+{"brand_name":"결 하우스","item_id":"72452","price":"78000","sales_price":"37500","discount_rate":"0.5192","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"18889"
+,"url":"","product_name":"스킨 베리어 호호바 오일 30ML (2개)"},
+{"brand_name":"결 하우스","item_id":"72453","price":"78000","sales_price":"37500","discount_rate":"0.5192","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"18889"
+,"url":"","product_name":"익스트림 카밍 티트리 오일 30ML (2개)"},
+{"brand_name":"결 하우스","item_id":"72455","price":"78000","sales_price":"37500","discount_rate":"0.5192","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"18889"
+,"url":"","product_name":"스킨 베리어 호호바 오일 30ML + 익스트림 카밍 티트리 오일 30ML"},
+{"brand_name":"결 하우스","item_id":"74037","price":"48000","sales_price":"26000","discount_rate":"0.4583","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"페이스오일","cate_3_code":"001:001:004","brand_id":"18889"
+,"url":"","product_name":"스킨 베리어 호호바 오일 50ML"},
+{"brand_name":"메이크프렘","item_id":"73343","price":"25000","sales_price":"16250","discount_rate":"0.35","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"3371"
+,"url":"","product_name":"피디알엔포어클레이클렌징밀크_200ml"},
+{"brand_name":"메이크프렘","item_id":"73437","price":"34000","sales_price":"22100","discount_rate":"0.35","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3371"
+,"url":"","product_name":"엔엠엔퍼밍엑스퍼트앰플_50ml"},
+{"brand_name":"메이크프렘","item_id":"6617","price":"24000","sales_price":"15600","discount_rate":"0.35","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"3371"
+,"url":"","product_name":"세이프 미 릴리프 모이스처 클렌징 밀크 200ml"},
+{"brand_name":"메이크프렘","item_id":"53308","price":"36000","sales_price":"23400","discount_rate":"0.35","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"3371"
+,"url":"","product_name":"인테카 수딩 클렌징 폼 150ml (2개)"},
+{"brand_name":"메이크프렘","item_id":"42891","price":"40000","sales_price":"20000","discount_rate":"0.5","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"3371"
+,"url":"","product_name":"세이프 미 릴리프 모이스처 클렌징 폼 170ml (2개)"},
+{"brand_name":"나드","item_id":"43936","price":"72000","sales_price":"21900","discount_rate":"0.6958","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"10673"
+,"url":"","product_name":"[2+1]센시티브 두피 케어 샴푸 500ml + 트리트먼트 500ml"},
+{"brand_name":"나드","item_id":"43259","price":"52000","sales_price":"17900","discount_rate":"0.6558","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"10673"
+,"url":"","product_name":"[1+1]센시티브 두피 케어 샴푸 500ml"},
+{"brand_name":"나드","item_id":"55522","price":"32000","sales_price":"13900","discount_rate":"0.5656","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"10673"
+,"url":"","product_name":"[1+1]약산성 마일드 여성 청결제 300ml 1+1"},
+{"brand_name":"나드","item_id":"42946","price":"18000","sales_price":"12900","discount_rate":"0.2833","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"10673"
+,"url":"","product_name":"티트리 진정 수분 마스크팩 30개입"},
+{"brand_name":"나드","item_id":"43935","price":"72000","sales_price":"21000","discount_rate":"0.7083","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"10673"
+,"url":"","product_name":"[2+1]센시티브 두피 케어 트리트먼트 500ml + 샴푸 500ml"},
+{"brand_name":"아비브","item_id":"70845","price":"23000","sales_price":"16100","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3914"
+,"url":"","product_name":"어성초 카밍 토너 스킨 부스터 200ml"},
+{"brand_name":"아비브","item_id":"70849","price":"32000","sales_price":"22400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3914"
+,"url":"","product_name":"부활초 비피다 세럼 퍼밍 드롭 50ml"},
+{"brand_name":"아비브","item_id":"70854","price":"35000","sales_price":"24500","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3914"
+,"url":"","product_name":"부활초 크림 뉴트리션 튜브 75ml"},
+{"brand_name":"아비브","item_id":"70852","price":"23000","sales_price":"16100","discount_rate":"0.3","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크/팩","cate_3_code":"001:003:002","brand_id":"3914"
+,"url":"","product_name":"콜라겐 아이패치 부활초 젤리 60매"},
+{"brand_name":"아비브","item_id":"74095","price":"32000","sales_price":"22400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3914"
+,"url":"","product_name":"브라이트 포스 세럼 13.0 펌프 30ml"},
+{"brand_name":"정샘물뷰티","item_id":"73904","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"2762"
+,"url":"","product_name":"에센셜 스킨 누더 쿠션-크림핑크 (리필 포함) 14g*2"},
+{"brand_name":"정샘물뷰티","item_id":"23831","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"2762"
+,"url":"","product_name":"에센셜 스킨 누더 쿠션-페어라이트(리필 포함) (14g 2개입)"},
+{"brand_name":"정샘물뷰티","item_id":"60395","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"2762"
+,"url":"","product_name":"에센셜 스킨 누더 쿠션-엔라이트 (리필 포함) 14g*2"},
+{"brand_name":"정샘물뷰티","item_id":"23829","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"2762"
+,"url":"","product_name":"에센셜 스킨 누더 쿠션-미디엄 (리필 포함) 14g*2"},
+{"brand_name":"정샘물뷰티","item_id":"23817","price":"45000","sales_price":"36000","discount_rate":"0.2","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"2762"
+,"url":"","product_name":"에센셜 스킨 누더 쿠션-페어 (리필 포함) 14g*2"},
+{"brand_name":"어바웃미","item_id":"27250","price":"28000","sales_price":"15400","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"977"
+,"url":"","product_name":"숲 진정 수분 세럼 50ml"},
+{"brand_name":"어바웃미","item_id":"55763","price":"52000","sales_price":"18200","discount_rate":"0.65","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"977"
+,"url":"","product_name":"숲 진정 수분 크림 리필 기획 세트(80ml+80ml)"},
+{"brand_name":"어바웃미","item_id":"56829","price":"24000","sales_price":"16800","discount_rate":"0.3","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"977"
+,"url":"","product_name":"쌀 막걸리 클렌징 오일 195ml"},
+{"brand_name":"어바웃미","item_id":"30955","price":"14000","sales_price":"9800","discount_rate":"0.3","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"977"
+,"url":"","product_name":"쌀 막걸리 클렌징폼 120ml"},
+{"brand_name":"듀이트리","item_id":"73136","price":"38000","sales_price":"17900","discount_rate":"0.5289","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"493"
+,"url":"","product_name":"하이 아미노 올 클렌징 밀크 리필 기획세트 [총 400ml]"},
+{"brand_name":"듀이트리","item_id":"17336","price":"19000","sales_price":"11900","discount_rate":"0.3737","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"493"
+,"url":"","product_name":"하이 아미노 올 클렌징 밀크 200ml"},
+{"brand_name":"듀이트리","item_id":"64124","price":"26000","sales_price":"16100","discount_rate":"0.3808","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"493"
+,"url":"","product_name":"픽앤퀵 카밍풀 뜯어쓰는 더블 패드 100매"},
+{"brand_name":"듀이트리","item_id":"61583","price":"24000","sales_price":"15900","discount_rate":"0.3375","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"493"
+,"url":"","product_name":"AC 딥 흔적 진정 잡티 패드 80매"},
+{"brand_name":"듀이트리","item_id":"65250","price":"24000","sales_price":"11900","discount_rate":"0.5042","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"493"
+,"url":"","product_name":"어반쉐이드 안티 폴루션 선 SPF50+/PA++++ 40ml"},
+{"brand_name":"파티온","item_id":"43562","price":"18000","sales_price":"16200","discount_rate":"0.1","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002","brand_id":"9777"
+,"url":"","product_name":"노스카나인 클렌징 워터 500ml"},
+{"brand_name":"파티온","item_id":"45674","price":"12000","sales_price":"10800","discount_rate":"0.1","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"패치","cate_3_code":"001:003:006","brand_id":"9777"
+,"url":"","product_name":"노스카나인 스팟 패치 102매"},
+{"brand_name":"파티온","item_id":"50144","price":"23000","sales_price":"20700","discount_rate":"0.1","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"9777"
+,"url":"","product_name":"노스카나인 트러블 클리어 토너 200ml"},
+{"brand_name":"파티온","item_id":"53113","price":"25000","sales_price":"22500","discount_rate":"0.1","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"9777"
+,"url":"","product_name":"노스카나인 트러블 바디 워시 490ml"},
+{"brand_name":"파티온","item_id":"53124","price":"22000","sales_price":"19800","discount_rate":"0.1","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"9777"
+,"url":"","product_name":"노스카나인 트러블 바디 미스트 145ml"},
+{"brand_name":"투쿨포스쿨","item_id":"62989","price":"16000","sales_price":"8900","discount_rate":"0.4438","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"프라이머","cate_3_code":"001:005:002","brand_id":"172"
+,"url":"","product_name":"[only화해] 아트클래스 워터리 블러 프라이머 30ml+15ml 기획"},
+{"brand_name":"션리","item_id":"69478","price":"16000","sales_price":"12500","discount_rate":"0.2188","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"7633"
+,"url":"","product_name":"다시마 앰플 클렌징폼(120ml)+클렌징폼 15ml 1개"},
+{"brand_name":"션리","item_id":"66515","price":"30000","sales_price":"25000","discount_rate":"0.1667","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7633"
+,"url":"","product_name":"다시마 그리너리 세럼(30ml)+세럼 7ml 1개"},
+{"brand_name":"션리","item_id":"66511","price":"28000","sales_price":"22500","discount_rate":"0.1964","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"7633"
+,"url":"","product_name":"다시마 글레이즈드 크림(50ml)+크림 10g 1개"},
+{"brand_name":"션리","item_id":"70363","price":"80000","sales_price":"26000","discount_rate":"0.675","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"7633"
+,"url":"","product_name":"다시마 콜라겐 퍼밍 마스크 20매(+마스크팩 10매)"},
+{"brand_name":"션리","item_id":"69476","price":"120000","sales_price":"26000","discount_rate":"0.7833","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"7633"
+,"url":"","product_name":"다시마 퍼밍 마스크 30매(+10매)"},
+{"brand_name":"션리","item_id":"68165","price":"32000","sales_price":"24900","discount_rate":"0.2219","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"7633"
+,"url":"","product_name":"[1+1] 다시마 앰플 클렌징폼 120ml+클렌징폼 15ml 2개"},
+{"brand_name":"헤어플러스","item_id":"12149","price":"19900","sales_price":"14900","discount_rate":"0.251","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"328"
+,"url":"","product_name":"단백질 본드 앰플 145ml"},
+{"brand_name":"헤어플러스","item_id":"12150","price":"24900","sales_price":"17900","discount_rate":"0.281","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"328"
+,"url":"","product_name":"단백질 본드 샴푸 1000ml"},
+{"brand_name":"헤어플러스","item_id":"12151","price":"24900","sales_price":"17900","discount_rate":"0.281","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"328"
+,"url":"","product_name":"단백질 본드 트리트먼트 700ml"},
+{"brand_name":"헤어플러스","item_id":"12371","price":"18900","sales_price":"15900","discount_rate":"0.159","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어미스트","cate_3_code":"001:009:004","brand_id":"328"
+,"url":"","product_name":"단백질 본드 워터 에센스 200ml"},
+{"brand_name":"헤어플러스","item_id":"12372","price":"18900","sales_price":"14900","discount_rate":"0.212","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"328"
+,"url":"","product_name":"단백질 오일 에센스 150ml"},
+{"brand_name":"락토온","item_id":"72997","price":"19900","sales_price":"11900","discount_rate":"0.402","cate_2_name":"이너뷰티","cate_2_code":"001:013","cate_3_name":"항산화 관리","cate_3_code":"001:013:006","brand_id":"19690"
+,"url":"","product_name":"[락토온] 식물성 그린 오메가3 30캡슐 1박스"},
+{"brand_name":"락토온","item_id":"72241","price":"23800","sales_price":"15700","discount_rate":"0.34","cate_2_name":"이너뷰티","cate_2_code":"001:013","cate_3_name":"항산화 관리","cate_3_code":"001:013:006","brand_id":"19690"
+,"url":"","product_name":"NFC 착즙 100% 유기농 레몬즙 2세트"},
+{"brand_name":"락토온","item_id":"67871","price":"19900","sales_price":"16900","discount_rate":"0.151","cate_2_name":"이너뷰티","cate_2_code":"001:013","cate_3_name":"피부 건강","cate_3_code":"001:013:001","brand_id":"19690"
+,"url":"","product_name":"서울약사신협 내몸애 저분자 콜라겐 2.5g 100포"},
+{"brand_name":"토니모리","item_id":"27380","price":"17000","sales_price":"12900","discount_rate":"0.241","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"23"
+,"url":"","product_name":"원더세라마이드모찌토너"},
+{"brand_name":"토니모리","item_id":"62013","price":"15000","sales_price":"12000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"23"
+,"url":"","product_name":"원더세라마이드모찌에멀전"},
+{"brand_name":"토니모리","item_id":"27379","price":"15000","sales_price":"12000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"23"
+,"url":"","product_name":"원더세라마이드모찌수분크림"},
+{"brand_name":"토니모리","item_id":"60152","price":"15000","sales_price":"12000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"23"
+,"url":"","product_name":"원더히알루론산촉촉앰플"},
+{"brand_name":"토니모리","item_id":"33921","price":"15000","sales_price":"12000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"23"
+,"url":"","product_name":"원더히알루론산촉촉토너"},
+{"brand_name":"토니모리","item_id":"28234","price":"19800","sales_price":"15840","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"23"
+,"url":"","product_name":"원더비건라벨세라마이드모찌진정토너500ml"},
+{"brand_name":"트리셀","item_id":"28832","price":"24000","sales_price":"16800","discount_rate":"0.3","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"9179"
+,"url":"","product_name":"데이 콜라겐 샴푸 모닝 오브 리조트 520ml"},
+{"brand_name":"트리셀","item_id":"28835","price":"24000","sales_price":"16800","discount_rate":"0.3","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"9179"
+,"url":"","product_name":"나이트 콜라겐 샴푸 미드나잇 포레스트 520ml"},
+{"brand_name":"트리셀","item_id":"44643","price":"48000","sales_price":"31200","discount_rate":"0.35","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"9179"
+,"url":"","product_name":"데이/나이트 콜라겐 샴푸 2개입 (모닝오브리조트+모닝오브리조트)"},
+{"brand_name":"트리셀","item_id":"44645","price":"48000","sales_price":"31200","discount_rate":"0.35","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"9179"
+,"url":"","product_name":"데이/나이트 콜라겐 샴푸 2개입 (모닝오브리조트+미드나잇포레스트)"},
+{"brand_name":"트리셀","item_id":"44648","price":"48000","sales_price":"31200","discount_rate":"0.35","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"샴푸","cate_3_code":"001:009:001","brand_id":"9179"
+,"url":"","product_name":"데이/나이트 콜라겐 샴푸 2개입 (미드나잇포레스트+미드나잇포레스트)"},
+{"brand_name":"트리셀","item_id":"31125","price":"18000","sales_price":"12600","discount_rate":"0.3","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어에센스/오일","cate_3_code":"001:009:003","brand_id":"9179"
+,"url":"","product_name":"리커버리 오일 에센스 100ml (AD)"},
+{"brand_name":"트리셀","item_id":"52232","price":"44000","sales_price":"23800","discount_rate":"0.46","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"트리트먼트/팩","cate_3_code":"001:009:007","brand_id":"9179"
+,"url":"","product_name":"포르테 앰플 트리트먼트 2개입"},
+{"brand_name":"클리오","item_id":"9226","price":"11000","sales_price":"7200","discount_rate":"0.345","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이라이너","cate_3_code":"001:006:002","brand_id":"137"
+,"url":"","product_name":"클리오 샤프쏘심플워터프루프펜슬라이너 (24AD) 004 다크브라운"},
+{"brand_name":"클리오","item_id":"9244","price":"20000","sales_price":"12600","discount_rate":"0.37","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이브로우","cate_3_code":"001:006:003","brand_id":"137"
+,"url":"","product_name":"클리오 킬브로우오토하드브로우펜슬 (24AD) 005 그레이브라운"},
+{"brand_name":"클리오","item_id":"6957","price":"20000","sales_price":"12600","discount_rate":"0.37","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이브로우","cate_3_code":"001:006:003","brand_id":"137"
+,"url":"","product_name":"클리오 킬브로우오토하드브로우펜슬 (24AD) 001 내추럴브라운"},
+{"brand_name":"클리오","item_id":"9239","price":"18000","sales_price":"12600","discount_rate":"0.3","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"마스카라/픽서","cate_3_code":"001:006:004","brand_id":"137"
+,"url":"","product_name":"클리오 킬래쉬수퍼프루프마스카라 001 롱컬링"},
+{"brand_name":"클리오","item_id":"68358","price":"22000","sales_price":"14300","discount_rate":"0.35","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이라이너","cate_3_code":"001:006:002","brand_id":"137"
+,"url":"","product_name":"샤프, 쏘 심플 펜슬 라이너 (AD) [3호 블랙브라운] (0.14g) [2개입]"},
+{"brand_name":"클리오","item_id":"67493","price":"24000","sales_price":"10900","discount_rate":"0.546","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"립/아이 리무버","cate_3_code":"001:002:008","brand_id":"137"
+,"url":"","product_name":"킬래쉬 마스카라 리무버 [2개입] 8.5g"},
+{"brand_name":"클리오","item_id":"56442","price":"34000","sales_price":"23800","discount_rate":"0.3","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"137"
+,"url":"","product_name":"클리오 프로아이팔레트에어 02 로즈커넥트"},
+{"brand_name":"클리오","item_id":"5351","price":"11000","sales_price":"7200","discount_rate":"0.345","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이라이너","cate_3_code":"001:006:002","brand_id":"137"
+,"url":"","product_name":"클리오 샤프쏘심플워터프루프펜슬라이너 (24AD) 002 브라운"},
+{"brand_name":"클리오","item_id":"63254","price":"20000","sales_price":"12600","discount_rate":"0.37","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"하이라이터","cate_3_code":"001:005:009","brand_id":"137"
+,"url":"","product_name":"클리오 글래스앤하이라이터 (냥생역전코숏) 01 달빛물방울"},
+{"brand_name":"클리오","item_id":"61387","price":"11000","sales_price":"7700","discount_rate":"0.3","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이라이너","cate_3_code":"001:006:002","brand_id":"137"
+,"url":"","product_name":"클리오 샤프쏘심플워터프루프펜슬라이너 (24AD) 005 애쉬브라운"},
+{"brand_name":"페리페라","item_id":"53708","price":"30000","sales_price":"13500","discount_rate":"0.55","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"셰이딩","cate_3_code":"001:005:011","brand_id":"205"
+,"url":"","product_name":"브이 쉐딩 [003 그레이쉬쿨]+3단 블럭브러쉬"},
+{"brand_name":"페리페라","item_id":"67485","price":"12000","sales_price":"10800","discount_rate":"0.1","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이브로우","cate_3_code":"001:006:003","brand_id":"205"
+,"url":"","product_name":"스피디 스키니 브로우 [08 토프베이지] [2개입] 0.05g"},
+{"brand_name":"페리페라","item_id":"31918","price":"11000","sales_price":"8400","discount_rate":"0.236","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립틴트","cate_3_code":"001:007:002","brand_id":"205"
+,"url":"","product_name":"페리페라 잉크무드글로이틴트 005 어쩔체리"},
+{"brand_name":"페리페라","item_id":"48520","price":"15000","sales_price":"11400","discount_rate":"0.24","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"205"
+,"url":"","product_name":"페리페라 잉크포켓섀도우팔레트 (23AD) 004 뮤트를 아는 느낌"},
+{"brand_name":"페리페라","item_id":"67509","price":"16000","sales_price":"11900","discount_rate":"0.256","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"블러셔","cate_3_code":"001:005:008","brand_id":"205"
+,"url":"","product_name":"페리페라 맑게물든선샤인치크 012 날씨요정등극해 [2개입]"},
+{"brand_name":"페리페라","item_id":"69295","price":"8000","sales_price":"7600","discount_rate":"0.05","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이브로우","cate_3_code":"001:006:003","brand_id":"205"
+,"url":"","product_name":"페리페라 스피디스키니브로우마스카라 006 베이지애쉬"},
+{"brand_name":"페리페라","item_id":"34145","price":"8000","sales_price":"7600","discount_rate":"0.05","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이브로우","cate_3_code":"001:006:003","brand_id":"205"
+,"url":"","product_name":"페리페라 스피디스키니브로우마스카라 003 내추럴브라운"},
+{"brand_name":"페리페라","item_id":"68087","price":"15000","sales_price":"11400","discount_rate":"0.24","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"아이섀도","cate_3_code":"001:006:001","brand_id":"205"
+,"url":"","product_name":"페리페라 잉크포켓섀도우팔레트 (23AD) 008 뮤트에 빠진 딸기 (소프트베리)"},
+{"brand_name":"페리페라","item_id":"57131","price":"11000","sales_price":"8400","discount_rate":"0.236","cate_2_name":"립메이크업","cate_2_code":"001:007","cate_3_name":"립틴트","cate_3_code":"001:007:002","brand_id":"205"
+,"url":"","product_name":"페리페라 잉크무드글로이틴트 020 당맛도리 (약과몰입)"},
+{"brand_name":"페리페라","item_id":"70344","price":"16000","sales_price":"11900","discount_rate":"0.256","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"블러셔","cate_3_code":"001:005:008","brand_id":"205"
+,"url":"","product_name":"페리페라 맑게물든선샤인치크 001 집밖은위험해 [2개입]"},
+{"brand_name":"구달","item_id":"26774","price":"20000","sales_price":"14400","discount_rate":"0.28","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"268"
+,"url":"","product_name":"구달 맑은어성초진정수분선크림 (24AD)"},
+{"brand_name":"구달","item_id":"51431","price":"20000","sales_price":"14400","discount_rate":"0.28","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"268"
+,"url":"","product_name":"구달 맑은어성초진정무기자차선크림"},
+{"brand_name":"구달","item_id":"61608","price":"26000","sales_price":"16900","discount_rate":"0.35","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"268"
+,"url":"","product_name":"구달 어성초히알루론수딩클리어패드"},
+{"brand_name":"구달","item_id":"31933","price":"28000","sales_price":"20100","discount_rate":"0.282","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"268"
+,"url":"","product_name":"구달 청귤비타C잡티케어세럼알파 (25AD) 30ml"},
+{"brand_name":"구달","item_id":"70116","price":"32000","sales_price":"24000","discount_rate":"0.25","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"268"
+,"url":"","product_name":"구달 청귤비타C나이아신아마이드10흔적앰플"},
+{"brand_name":"구달","item_id":"61607","price":"28000","sales_price":"19200","discount_rate":"0.314","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"268"
+,"url":"","product_name":"구달 어성초히알루론수딩크림 (25AD)"},
+{"brand_name":"구달","item_id":"61446","price":"22000","sales_price":"9900","discount_rate":"0.55","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"268"
+,"url":"","product_name":"순한 마스크 [녹차가득] (20개입)"},
+{"brand_name":"구달","item_id":"56583","price":"34000","sales_price":"23800","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"268"
+,"url":"","product_name":"구달 흑당근비타A레티놀탄력크림"},
+{"brand_name":"구달","item_id":"61445","price":"22000","sales_price":"9900","discount_rate":"0.55","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"268"
+,"url":"","product_name":"순한 마스크 [티트리가득] (20개입)"},
+{"brand_name":"제나벨","item_id":"66455","price":"66000","sales_price":"28900","discount_rate":"0.562","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"7404"
+,"url":"","product_name":"[온리화해] PDRN 크림 2개 기획세트(+마스크팩 2매+듀이 톤업썬 1ml*5매)"},
+{"brand_name":"제나벨","item_id":"67760","price":"44000","sales_price":"17000","discount_rate":"0.614","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"7404"
+,"url":"","product_name":"[온리화해] PDRN 마스크팩 2개 기획세트(+마스크팩 1매+PDRN 크림 1ml*5매)"},
+{"brand_name":"제나벨","item_id":"72635","price":"46000","sales_price":"39900","discount_rate":"0.133","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7404"
+,"url":"","product_name":"PDRN 3% 앰플"},
+{"brand_name":"제나벨","item_id":"58924","price":"33000","sales_price":"19900","discount_rate":"0.397","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"7404"
+,"url":"","product_name":"스쿠알란 53 딥 모이스처 세럼 30ml"},
+{"brand_name":"제나벨","item_id":"72675","price":"30000","sales_price":"20900","discount_rate":"0.303","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"7404"
+,"url":"","product_name":"마일드 테카 선스크린"},
+{"brand_name":"제나벨","item_id":"71167","price":"42000","sales_price":"27000","discount_rate":"0.357","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"7404"
+,"url":"","product_name":"PDRN 인리치드 리커버리 밤 50ml"},
+{"brand_name":"제나벨","item_id":"56235","price":"33000","sales_price":"15900","discount_rate":"0.518","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"7404"
+,"url":"","product_name":"레이저 수딩 선스크린"},
+{"brand_name":"원료공방","item_id":"51589","price":"25000","sales_price":"16900","discount_rate":"0.324","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"12390"
+,"url":"","product_name":"아줄렌 블루 클렌징밤 (본품 100ml + 클렌징밤 증정 10ml)"},
+{"brand_name":"원료공방","item_id":"53422","price":"28000","sales_price":"17900","discount_rate":"0.361","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"12390"
+,"url":"","product_name":"티트리 그린 바디워시 (본품 500ml + 바디워시 증정 40ml)"},
+{"brand_name":"원료공방","item_id":"53423","price":"24000","sales_price":"17900","discount_rate":"0.254","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"12390"
+,"url":"","product_name":"티트리 그린 바디미스트 (본품 200ml + 바디워시 증정 40ml)"},
+{"brand_name":"원료공방","item_id":"61109","price":"30000","sales_price":"17900","discount_rate":"0.403","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"12390"
+,"url":"","product_name":"비타 히알 토닝 세럼 30ml (본품 30ml + 클렌징밤 증정 10ml)"},
+{"brand_name":"원료공방","item_id":"61110","price":"41000","sales_price":"23900","discount_rate":"0.417","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"12390"
+,"url":"","product_name":"아줄렌시카 흔적 크림 55g (본품 55g + 클렌징밤 증정 10ml)"},
+{"brand_name":"원료공방","item_id":"71282","price":"50000","sales_price":"25900","discount_rate":"0.482","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"12390"
+,"url":"","product_name":"아줄렌 블루 클렌징밤 (본품 100mlx2개입+클렌징밤 10ml+흔적크림 증정 10g)"},
+{"brand_name":"원료공방","item_id":"71283","price":"56000","sales_price":"27900","discount_rate":"0.502","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"12390"
+,"url":"","product_name":"티트리 그린 바디워시 (본품 500mlx2개입+ 바디워시 40ml+흔적크림 증정 10g)"},
+{"brand_name":"원료공방","item_id":"71284","price":"48000","sales_price":"27900","discount_rate":"0.419","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디미스트/샤워코롱","cate_3_code":"001:008:006","brand_id":"12390"
+,"url":"","product_name":"티트리 그린 바디미스트 200ml (본품x2개입+바디워시 40ml+흔적크림 증정 10g)"},
+{"brand_name":"원료공방","item_id":"71286","price":"60000","sales_price":"27900","discount_rate":"0.535","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"12390"
+,"url":"","product_name":"비타 히알 토닝 세럼 30ml (본품 x2개입+클렌징밤 10ml+흔적크림 증정 10g)"},
+{"brand_name":"원료공방","item_id":"71287","price":"82000","sales_price":"39900","discount_rate":"0.513","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"12390"
+,"url":"","product_name":"아줄렌시카 흔적 크림 55g (본품x2개입+클렌징밤 10ml+흔적크림 증정 10g)"},
+{"brand_name":"원료공방","item_id":"71288","price":"52000","sales_price":"34900","discount_rate":"0.329","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디워시","cate_3_code":"001:008:001","brand_id":"12390"
+,"url":"","product_name":"원료공방 티트리 바디 트러블 케어 2종 (바디워시 + 바디미스트 + 미니 3종 증정)"},
+{"brand_name":"원료공방","item_id":"71291","price":"66000","sales_price":"39900","discount_rate":"0.395","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"12390"
+,"url":"","product_name":"원료공방 아줄렌 민감성 케어 2종 (클렌징밤 +흔적크림+ 미니 3종 증정)"},
+{"brand_name":"소미","item_id":"70759","price":"24500","sales_price":"15900","discount_rate":"0.351","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"17726"
+,"url":"","product_name":"클라우드 딥 클렌저 150ml"},
+{"brand_name":"소미","item_id":"61010","price":"21900","sales_price":"14000","discount_rate":"0.361","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"17726"
+,"url":"","product_name":"트리트 모이스처 크림 80ml"},
+{"brand_name":"소미","item_id":"61046","price":"22900","sales_price":"14900","discount_rate":"0.349","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"17726"
+,"url":"","product_name":"트리트 젤 에센스 50ml"},
+{"brand_name":"소미","item_id":"66494","price":"65400","sales_price":"19900","discount_rate":"0.696","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"아이케어","cate_3_code":"001:001:006","brand_id":"17726"
+,"url":"","product_name":"볼륨 리페어 아이크림 20ml (3개)"},
+{"brand_name":"소미","item_id":"72131","price":"22800","sales_price":"14900","discount_rate":"0.346","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"17726"
+,"url":"","product_name":"클라우드 딥 글로우 미스트"},
+{"brand_name":"백아율","item_id":"64483","price":"25000","sales_price":"8900","discount_rate":"0.644","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"5299"
+,"url":"","product_name":"모이스처 밸런싱 토너 300ml"},
+{"brand_name":"백아율","item_id":"64484","price":"21000","sales_price":"8400","discount_rate":"0.6","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"5299"
+,"url":"","product_name":"모이스처 밸런싱 세럼 50ml"},
+{"brand_name":"백아율","item_id":"64485","price":"32000","sales_price":"9300","discount_rate":"0.709","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"5299"
+,"url":"","product_name":"모이스처 밸런싱 크림 50ml"},
+{"brand_name":"백아율","item_id":"60385","price":"51000","sales_price":"14500","discount_rate":"0.716","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"5299"
+,"url":"","product_name":"[ONLY화해] 모이스처 밸런싱 마스크 17매 기획"},
+{"brand_name":"더멜라","item_id":"72486","price":"39000","sales_price":"19900","discount_rate":"0.48","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"19720"
+,"url":"","product_name":"PDRN 스피큘 모공탄력 앰플 50ml"},
+{"brand_name":"더멜라","item_id":"72487","price":"37000","sales_price":"18900","discount_rate":"0.48","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"19720"
+,"url":"","product_name":"루미샷 더블 비타 스피큘 부스터 세럼 30ml"},
+{"brand_name":"더멜라","item_id":"72495","price":"33000","sales_price":"17900","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"19720"
+,"url":"","product_name":"히알 스피큘 수분 밸런싱 크림 50ml"},
+{"brand_name":"더멜라","item_id":"72494","price":"36000","sales_price":"18900","discount_rate":"0.47","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"19720"
+,"url":"","product_name":"시카좀 스피큘 배리어 카밍 크림 50ml"},
+{"brand_name":"YBK","item_id":"56874","price":"70000","sales_price":"21900","discount_rate":"0.69","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"13948"
+,"url":"","product_name":"릴리프 하이드레이션 라이트 썬스크린 50ml (2개묶음)"},
+{"brand_name":"YBK","item_id":"58874","price":"44000","sales_price":"19900","discount_rate":"0.55","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"13948"
+,"url":"","product_name":"[only화해] 릴리프 하이드레이션 라이트 폼 클렌저 150ml 1+1 더블기획"},
+{"brand_name":"YBK","item_id":"33378","price":"24000","sales_price":"9900","discount_rate":"0.59","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"13948"
+,"url":"","product_name":"어성초 원스텝 포어 패드 140ml"},
+{"brand_name":"YBK","item_id":"33383","price":"28000","sales_price":"9900","discount_rate":"0.65","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"워시오프 팩","cate_3_code":"001:003:003","brand_id":"13948"
+,"url":"","product_name":"포어 클리어 클레이 크림 마스크 200ml"},
+{"brand_name":"YBK","item_id":"33376","price":"32000","sales_price":"18900","discount_rate":"0.41","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 크림 50ml"},
+{"brand_name":"YBK","item_id":"33372","price":"25000","sales_price":"16900","discount_rate":"0.32","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 토너 120ml"},
+{"brand_name":"YBK","item_id":"33374","price":"28000","sales_price":"17900","discount_rate":"0.36","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 에멀젼 120ml"},
+{"brand_name":"YBK","item_id":"33385","price":"30000","sales_price":"16900","discount_rate":"0.44","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 앰플 30ml"},
+{"brand_name":"YBK","item_id":"45218","price":"48000","sales_price":"21900","discount_rate":"0.54","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"13948"
+,"url":"","product_name":"어성초 원스텝 포어 패드 140ml (2개묶음)"},
+{"brand_name":"YBK","item_id":"50480","price":"70000","sales_price":"26900","discount_rate":"0.62","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"13948"
+,"url":"","product_name":"포어 풀 커버 데일리 썬스크린 50ml (2개묶음)"},
+{"brand_name":"YBK","item_id":"45217","price":"60000","sales_price":"24900","discount_rate":"0.59","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 앰플 30ml (2개묶음)"},
+{"brand_name":"YBK","item_id":"46396","price":"64000","sales_price":"26900","discount_rate":"0.58","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13948"
+,"url":"","product_name":"세라마이드 릴리프 하이드레이션 크림 50ml (2개묶음)"},
+{"brand_name":"YBK","item_id":"67225","price":"32000","sales_price":"22900","discount_rate":"0.28","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"13948"
+,"url":"","product_name":"포어 클리어 솔루션 클렌징 오일 200ml"},
+{"brand_name":"YBK","item_id":"68864","price":"64000","sales_price":"30000","discount_rate":"0.53","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"13948"
+,"url":"","product_name":"포어 클리어 솔루션 클렌징 오일 200ml (2개묶음)"},
+{"brand_name":"바닐라코","item_id":"33831","price":"22000","sales_price":"15500","discount_rate":"0.295","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"프라이머","cate_3_code":"001:005:002","brand_id":"85"
+,"url":"","product_name":"뉴 프라임 프라이머 클래식 30ml"},
+{"brand_name":"바닐라코","item_id":"73512","price":"30000","sales_price":"21000","discount_rate":"0.3","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"에센스 스킨 듀 쿠션 [SPF50+/PA++++] [19 소프트 크림] 11.5g"},
+{"brand_name":"바닐라코","item_id":"73514","price":"30000","sales_price":"21000","discount_rate":"0.3","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"에센스 스킨 듀 쿠션 [SPF50+/PA++++] [20.5 라벤더 아이보리] 11.5g"},
+{"brand_name":"바닐라코","item_id":"73515","price":"30000","sales_price":"21000","discount_rate":"0.3","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"에센스 스킨 듀 쿠션 [SPF50+/PA++++] [21 뉴트럴 아이보리] 11.5g"},
+{"brand_name":"바닐라코","item_id":"73516","price":"30000","sales_price":"21000","discount_rate":"0.3","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"에센스 스킨 듀 쿠션 [SPF50+/PA++++] [21.5 샌드 아이보리] 11.5g"},
+{"brand_name":"바닐라코","item_id":"73518","price":"30000","sales_price":"21000","discount_rate":"0.3","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"에센스 스킨 듀 쿠션 [SPF50+/PA++++] [22.5 내추럴 베이지] 11.5g"},
+{"brand_name":"바닐라코","item_id":"61626","price":"28000","sales_price":"21000","discount_rate":"0.25","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"85"
+,"url":"","product_name":"클린 잇 제로 클렌징밤 [오리지널] 180ML"},
+{"brand_name":"바닐라코","item_id":"69413","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [15 퓨어] 14g"},
+{"brand_name":"바닐라코","item_id":"51074","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [17 페어] 14g"},
+{"brand_name":"바닐라코","item_id":"48299","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [19 라이트] 14g"},
+{"brand_name":"바닐라코","item_id":"71169","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [20 크림] 14g"},
+{"brand_name":"바닐라코","item_id":"48300","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [21 로제] 14g"},
+{"brand_name":"바닐라코","item_id":"48301","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [21 아이보리] 14g"},
+{"brand_name":"바닐라코","item_id":"51088","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [22 내추럴] 14g"},
+{"brand_name":"바닐라코","item_id":"48302","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [23 미디엄] 14g"},
+{"brand_name":"바닐라코","item_id":"69414","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [24 샌드] 14g"},
+{"brand_name":"바닐라코","item_id":"69415","price":"30000","sales_price":"20500","discount_rate":"0.317","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"85"
+,"url":"","product_name":"커버리셔스 얼티밋 화이트 쿠션 [SPF38/PA++] [25 앰버] 14g"},
+{"brand_name":"바닐라코","item_id":"61629","price":"28000","sales_price":"21000","discount_rate":"0.25","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 밤","cate_3_code":"001:002:012","brand_id":"85"
+,"url":"","product_name":"클린 잇 제로 클렌징밤 [포어] 180ML"},
+{"brand_name":"뉴베리프","item_id":"72543","price":"49000","sales_price":"24500","discount_rate":"0.5","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"20717"
+,"url":"","product_name":"백합 리커버리 선크림 [SPF50+/PA++++]"},
+{"brand_name":"다자연","item_id":"72326","price":"37500","sales_price":"24900","discount_rate":"0.336","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3817"
+,"url":"","product_name":"다자연 어성초 마스크팩 25ml 25매 기획"},
+{"brand_name":"다자연","item_id":"52188","price":"47000","sales_price":"18900","discount_rate":"0.598","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3817"
+,"url":"","product_name":"어성초 케어 세럼 100ml"},
+{"brand_name":"다자연","item_id":"67106","price":"94000","sales_price":"36900","discount_rate":"0.607","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3817"
+,"url":"","product_name":"어성초 케어 세럼 100ml 1+1"},
+{"brand_name":"다자연","item_id":"52178","price":"32000","sales_price":"15900","discount_rate":"0.503","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3817"
+,"url":"","product_name":"[ONLY화해] 다자연 어성초 진정 수딩 크림75ml * 2ea 더블 기획"},
+{"brand_name":"다자연","item_id":"73532","price":"45000","sales_price":"22000","discount_rate":"0.511","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"3817"
+,"url":"","product_name":"어성초 목화솜 토너 패드 80매 [2개]"},
+{"brand_name":"다자연","item_id":"2720","price":"19500","sales_price":"15700","discount_rate":"0.195","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3817"
+,"url":"","product_name":"어성초 마스크팩 13매"},
+{"brand_name":"다자연","item_id":"70330","price":"32500","sales_price":"15700","discount_rate":"0.517","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3817"
+,"url":"","product_name":"병풀 CICA 마스크팩 13매"},
+{"brand_name":"다자연","item_id":"70332","price":"45500","sales_price":"15700","discount_rate":"0.655","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3817"
+,"url":"","product_name":"포도 마스크팩 13매"},
+{"brand_name":"다자연","item_id":"70334","price":"58500","sales_price":"15700","discount_rate":"0.732","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3817"
+,"url":"","product_name":"인삼 마스크팩 13매"},
+{"brand_name":"다자연","item_id":"6989","price":"27000","sales_price":"11000","discount_rate":"0.593","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3817"
+,"url":"","product_name":"어성초 케어 토너 200ml"},
+{"brand_name":"다자연","item_id":"17570","price":"30000","sales_price":"11000","discount_rate":"0.633","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3817"
+,"url":"","product_name":"어성초 모이스춰 케어 크림 50ml"},
+{"brand_name":"다자연","item_id":"18240","price":"25000","sales_price":"11000","discount_rate":"0.56","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"3817"
+,"url":"","product_name":"어성초 목화솜 토너패드 110ml 60매"},
+{"brand_name":"다자연","item_id":"25940","price":"13000","sales_price":"11000","discount_rate":"0.154","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"젤","cate_3_code":"001:001:010","brand_id":"3817"
+,"url":"","product_name":"어성초 데일리 카밍젤 100ML"},
+{"brand_name":"다자연","item_id":"27277","price":"15000","sales_price":"11000","discount_rate":"0.267","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"3817"
+,"url":"","product_name":"어성초 약산성 클렌징폼 120ml"},
+{"brand_name":"다자연","item_id":"46741","price":"18000","sales_price":"11000","discount_rate":"0.389","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3817"
+,"url":"","product_name":"어성초 진정 수딩 크림 75ml"},
+{"brand_name":"다자연","item_id":"72080","price":"87500","sales_price":"31000","discount_rate":"0.646","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3817"
+,"url":"","product_name":"인삼 앰플 10ml x 3"},
+{"brand_name":"다자연","item_id":"72079","price":"53700","sales_price":"21000","discount_rate":"0.609","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"3817"
+,"url":"","product_name":"영동포도 미스트 100ml"},
+{"brand_name":"다자연","item_id":"71910","price":"26000","sales_price":"19000","discount_rate":"0.269","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3817"
+,"url":"","product_name":"다자연 시카 토너 200ml"},
+{"brand_name":"다자연","item_id":"71909","price":"26000","sales_price":"19000","discount_rate":"0.269","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"3817"
+,"url":"","product_name":"다자연 시카 로션 200ml"},
+{"brand_name":"닥터505","item_id":"45208","price":"38000","sales_price":"20800","discount_rate":"0.453","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"4357"
+,"url":"","product_name":"아토클 크림"},
+{"brand_name":"더랩바이블랑두","item_id":"59358","price":"23000","sales_price":"14300","discount_rate":"0.378","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 딥 토너 기획 (200ml+50ml+화장솜 40p 증정)"},
+{"brand_name":"더랩바이블랑두","item_id":"56189","price":"37000","sales_price":"27400","discount_rate":"0.259","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 딥 토너 500ml"},
+{"brand_name":"더랩바이블랑두","item_id":"59684","price":"43000","sales_price":"29900","discount_rate":"0.305","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"8983"
+,"url":"","product_name":"그린 플라보노이드 2.5패드 90매 + 리필 90매"},
+{"brand_name":"더랩바이블랑두","item_id":"25011","price":"23000","sales_price":"17400","discount_rate":"0.243","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"8983"
+,"url":"","product_name":"그린 플라보노이드 2.5패드 90매"},
+{"brand_name":"더랩바이블랑두","item_id":"62075","price":"25000","sales_price":"17500","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"8983"
+,"url":"","product_name":"그린 플라보노이드 3.0 크림 50ml"},
+{"brand_name":"더랩바이블랑두","item_id":"72519","price":"25000","sales_price":"18900","discount_rate":"0.244","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 딥글로우 세럼 85ml"},
+{"brand_name":"더랩바이블랑두","item_id":"13821","price":"28000","sales_price":"20100","discount_rate":"0.282","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 헬씨 크림 쿠션 01호 12g"},
+{"brand_name":"더랩바이블랑두","item_id":"13822","price":"28000","sales_price":"20100","discount_rate":"0.282","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 헬씨 크림 쿠션 02호 12g"},
+{"brand_name":"더랩바이블랑두","item_id":"59685","price":"42000","sales_price":"29700","discount_rate":"0.293","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 헬씨 크림 쿠션 00호 12g + 리필 00호"},
+{"brand_name":"더랩바이블랑두","item_id":"59686","price":"42000","sales_price":"29700","discount_rate":"0.293","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 헬씨 크림 쿠션 01호 12g + 리필 01호"},
+{"brand_name":"더랩바이블랑두","item_id":"59687","price":"42000","sales_price":"29700","discount_rate":"0.293","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"쿠션","cate_3_code":"001:005:005","brand_id":"8983"
+,"url":"","product_name":"올리고 히알루론산 헬씨 크림 쿠션 02호 12g + 리필 02호"},
+{"brand_name":"더랩바이블랑두","item_id":"14901","price":"35000","sales_price":"23200","discount_rate":"0.337","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"8983"
+,"url":"","product_name":"프리바이오틱세라™ 크림 50ml"},
+{"brand_name":"라운드랩","item_id":"42771","price":"25000","sales_price":"15000","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"3897"
+,"url":"","product_name":"자작나무 수분 선크림 50ml [SPF50+/PA++++]"},
+{"brand_name":"라운드랩","item_id":"48436","price":"15000","sales_price":"12000","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3897"
+,"url":"","product_name":"1025 독도 토너 200ml"},
+{"brand_name":"라운드랩","item_id":"58538","price":"34000","sales_price":"22900","discount_rate":"0.33","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3897"
+,"url":"","product_name":"소나무 진정 시카 앰플 50ml"},
+{"brand_name":"라운드랩","item_id":"44546","price":"25000","sales_price":"16500","discount_rate":"0.34","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"3897"
+,"url":"","product_name":"소나무 진정 시카 로션 250ml"},
+{"brand_name":"라운드랩","item_id":"55948","price":"30000","sales_price":"15000","discount_rate":"0.5","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"3897"
+,"url":"","product_name":"약콩 판테놀 마스크 10매"},
+{"brand_name":"라운드랩","item_id":"32199","price":"25000","sales_price":"15000","discount_rate":"0.4","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"3897"
+,"url":"","product_name":"자작나무 무기자차 선크림 50ml [SPF50+/PA++++]"},
+{"brand_name":"라운드랩","item_id":"63620","price":"23000","sales_price":"14900","discount_rate":"0.35","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3897"
+,"url":"","product_name":"약콩 판테놀 토너 250ml"},
+{"brand_name":"라운드랩","item_id":"4188","price":"20000","sales_price":"14000","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"3897"
+,"url":"","product_name":"1025 독도 로션 200ml"},
+{"brand_name":"라운드랩","item_id":"7581","price":"18000","sales_price":"9900","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"미스트","cate_3_code":"001:001:007","brand_id":"3897"
+,"url":"","product_name":"1025 독도 미스트 150ml"},
+{"brand_name":"라운드랩","item_id":"69041","price":"34000","sales_price":"19000","discount_rate":"0.44","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3897"
+,"url":"","product_name":"소나무 진정 시카 크림 플러스 60ml"},
+{"brand_name":"라운드랩","item_id":"7739","price":"15000","sales_price":"11900","discount_rate":"0.21","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"3897"
+,"url":"","product_name":"자작나무 수분 클렌저 150ml"},
+{"brand_name":"라운드랩","item_id":"55960","price":"34000","sales_price":"16900","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3897"
+,"url":"","product_name":"약콩 판테놀 크림 80ml"},
+{"brand_name":"닥터오라클","item_id":"57318","price":"38000","sales_price":"26900","discount_rate":"0.2921","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"821"
+,"url":"","product_name":"레티노타이트닝 엑토세라마이드 크림 토너 150ml"},
+{"brand_name":"닥터오라클","item_id":"65862","price":"70000","sales_price":"39900","discount_rate":"0.43","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"821"
+,"url":"","product_name":"레티노타이트닝 더블 콜라겐 레티놀 크림 50ml (1+1/총 2개)"},
+{"brand_name":"닥터오라클","item_id":"61978","price":"36000","sales_price":"19900","discount_rate":"0.4472","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"아이케어","cate_3_code":"001:001:006","brand_id":"821"
+,"url":"","product_name":"레티노타이트닝 3D톡스 펩타이드 아이크림 25ml"},
+{"brand_name":"닥터오라클","item_id":"15756","price":"29000","sales_price":"9900","discount_rate":"0.6586","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"821"
+,"url":"","product_name":"21stay 에이테라 토너 120ml"},
+{"brand_name":"닥터오라클","item_id":"15751","price":"33000","sales_price":"12900","discount_rate":"0.6091","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"821"
+,"url":"","product_name":"21stay 에이테라 크림 50ml"},
+{"brand_name":"닥터오라클","item_id":"67108","price":"33000","sales_price":"17900","discount_rate":"0.4576","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"821"
+,"url":"","product_name":"21stay 히아루로닉 앰플 30ml"},
+{"brand_name":"닥터오라클","item_id":"70684","price":"20000","sales_price":"9900","discount_rate":"0.505","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"821"
+,"url":"","product_name":"21stay 에이테라 클렌징폼 100ml"},
+{"brand_name":"토리든","item_id":"69574","price":"42000","sales_price":"19900","discount_rate":"0.526","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 다이브인 저분자 히알루론산 토너 300ml 더블기획(+수딩크림 20 ml)"},
+{"brand_name":"토리든","item_id":"69344","price":"24000","sales_price":"15500","discount_rate":"0.354","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 다이브인 저분자 히알루론산 수딩크림 100ml 기획(+토너 50ml+마스크 1매)"},
+{"brand_name":"토리든","item_id":"73922","price":"25000","sales_price":"15500","discount_rate":"0.38","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 다이브인 저분자 히알루론산 크림 100ml 기획(+세럼 10ml+클렌징젤 30ml)"},
+{"brand_name":"토리든","item_id":"54413","price":"44000","sales_price":"26900","discount_rate":"0.389","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 다이브인 저분자 히알루론산 세럼 100ml 기획 (+수딩크림 50ml)"},
+{"brand_name":"토리든","item_id":"66380","price":"33000","sales_price":"19900","discount_rate":"0.397","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 다이브인 저분자 히알루론산 클렌징폼 150ml 더블기획 (+시카 클렌징폼 50ml)"},
+{"brand_name":"토리든","item_id":"72925","price":"23000","sales_price":"18400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"3264"
+,"url":"","product_name":"[온리화해] 밸런스풀 시카 컨트롤 세럼 50ml 기획 (+토너 50ml)"},
+{"brand_name":"로벡틴","item_id":"73573","price":"27000","sales_price":"14900","discount_rate":"0.448","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"404"
+,"url":"","product_name":"닥터 마스크 시카 토너 패드 60매(10매 증정기획)"},
+{"brand_name":"로벡틴","item_id":"52205","price":"32000","sales_price":"22400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"404"
+,"url":"","product_name":"비타 다크 스팟 세럼 30ml"},
+{"brand_name":"로벡틴","item_id":"2821","price":"32000","sales_price":"22400","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"404"
+,"url":"","product_name":"아쿠아 히알루로닉 에센스 180ml"},
+{"brand_name":"메디필","item_id":"52694","price":"24000","sales_price":"12500","discount_rate":"0.479","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 클리어 2.0 120ml(1+1)"},
+{"brand_name":"메디필","item_id":"58214","price":"24000","sales_price":"12500","discount_rate":"0.479","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"984"
+,"url":"","product_name":"그린 시카 콜라겐 클리어 2.0 120ml(1+1)"},
+{"brand_name":"메디필","item_id":"55552","price":"28000","sales_price":"7900","discount_rate":"0.718","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"984"
+,"url":"","product_name":"[1+1]비건 비타민 콜라겐 클리어 120ml"},
+{"brand_name":"메디필","item_id":"62622","price":"56000","sales_price":"33500","discount_rate":"0.402","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 랩핑 마스크 70ml 1+1"},
+{"brand_name":"메디필","item_id":"73793","price":"56000","sales_price":"33500","discount_rate":"0.402","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"984"
+,"url":"","product_name":"피토 시카놀 B5 카밍 비건 랩핑마스크 70ml 1+1"},
+{"brand_name":"메디필","item_id":"73794","price":"56000","sales_price":"33500","discount_rate":"0.402","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"984"
+,"url":"","product_name":"히알루론산 레이어 물톡스 랩핑마스크 70ml 1+1"},
+{"brand_name":"메디필","item_id":"73795","price":"56000","sales_price":"33500","discount_rate":"0.402","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"984"
+,"url":"","product_name":"엑스트라 슈퍼9 플러스 랩핑마스크 70ml 1+1"},
+{"brand_name":"메디필","item_id":"73796","price":"56000","sales_price":"33500","discount_rate":"0.402","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"필오프 팩","cate_3_code":"001:003:004","brand_id":"984"
+,"url":"","product_name":"비건 비타민 콜라겐 랩핑 마스크 70ml 1+1"},
+{"brand_name":"메디필","item_id":"53386","price":"24900","sales_price":"14900","discount_rate":"0.402","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"984"
+,"url":"","product_name":"엑스트라 슈퍼9 플러스 2.0 250ml"},
+{"brand_name":"메디필","item_id":"55135","price":"35000","sales_price":"7900","discount_rate":"0.774","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"984"
+,"url":"","product_name":"엑스트라 슈퍼9 플러스 포어 톡스 앰플 30ml"},
+{"brand_name":"메디필","item_id":"55109","price":"24900","sales_price":"7900","discount_rate":"0.683","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"984"
+,"url":"","product_name":"엑스트라 슈퍼9 플러스 액티브 스틱 33g"},
+{"brand_name":"메디필","item_id":"72141","price":"23000","sales_price":"13900","discount_rate":"0.396","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"984"
+,"url":"","product_name":"시카 쿨링 진정 패드 2X 50매"},
+{"brand_name":"메디필","item_id":"72140","price":"23000","sales_price":"13900","discount_rate":"0.396","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"984"
+,"url":"","product_name":"물톡스 광채 보습 패드 2X 50매"},
+{"brand_name":"메디필","item_id":"72139","price":"23000","sales_price":"13900","discount_rate":"0.396","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"984"
+,"url":"","product_name":"비타민 멜라 토닝 패드 2X 50매"},
+{"brand_name":"메디필","item_id":"72138","price":"23000","sales_price":"13900","discount_rate":"0.396","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"984"
+,"url":"","product_name":"락토 모공 리프팅 패드 2X 50매"},
+{"brand_name":"메디필","item_id":"59892","price":"26000","sales_price":"9900","discount_rate":"0.619","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"984"
+,"url":"","product_name":"히알루론산 레이어 물톡스 토너 300ml"},
+{"brand_name":"메디필","item_id":"57194","price":"41000","sales_price":"15900","discount_rate":"0.612","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"984"
+,"url":"","product_name":"히알루론산 레이어 물톡스 앰플 50ml"},
+{"brand_name":"메디필","item_id":"57959","price":"25900","sales_price":"9900","discount_rate":"0.618","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"984"
+,"url":"","product_name":"히알루론산 레이어 물톡스 크림 50g"},
+{"brand_name":"메디필","item_id":"61067","price":"34000","sales_price":"17900","discount_rate":"0.474","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 수딩 에센스 토너 200ml"},
+{"brand_name":"메디필","item_id":"61108","price":"43000","sales_price":"19900","discount_rate":"0.537","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 모공 타이트닝 앰플 50ml"},
+{"brand_name":"메디필","item_id":"61066","price":"38000","sales_price":"15900","discount_rate":"0.582","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 모공 베리어 크림 80ml"},
+{"brand_name":"메디필","item_id":"24252","price":"38000","sales_price":"7900","discount_rate":"0.792","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"984"
+,"url":"","product_name":"메디필시카안티오크림(30ml)"},
+{"brand_name":"메디필","item_id":"44319","price":"29000","sales_price":"7900","discount_rate":"0.728","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"984"
+,"url":"","product_name":"메디필허브떼르말세라마이드크림(120ml)"},
+{"brand_name":"메디필","item_id":"30234","price":"39000","sales_price":"9900","discount_rate":"0.746","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"밤/멀티밤","cate_3_code":"001:001:012","brand_id":"984"
+,"url":"","product_name":"펩타이드9 멜라 스틱 10g"},
+{"brand_name":"메디필","item_id":"54042","price":"35000","sales_price":"7900","discount_rate":"0.774","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"984"
+,"url":"","product_name":"메디필 피토시카놀B5 아하바하 카밍 토너 150ml"},
+{"brand_name":"메디필","item_id":"29288","price":"32000","sales_price":"7900","discount_rate":"0.753","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"984"
+,"url":"","product_name":"메디필더치티에이씨카밍세럼(70ml)"},
+{"brand_name":"메디필","item_id":"27899","price":"34000","sales_price":"7900","discount_rate":"0.768","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"984"
+,"url":"","product_name":"레드 락토 콜라겐 선크림 50ml"},
+{"brand_name":"메디필","item_id":"55160","price":"38000","sales_price":"7900","discount_rate":"0.792","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"984"
+,"url":"","product_name":"바이오 인텐스 글루타치온 화이트 앰플 30ml"},
+{"brand_name":"메디필","item_id":"62159","price":"36000","sales_price":"9900","discount_rate":"0.725","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"984"
+,"url":"","product_name":"히알루론산 물톡스 물빛 광채 선세럼 52ml"},
+{"brand_name":"메디필","item_id":"62160","price":"36000","sales_price":"9900","discount_rate":"0.725","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"984"
+,"url":"","product_name":"히알루론산 물톡스 밀착 보송 선크림 50ml"},
+{"brand_name":"메디필","item_id":"62133","price":"37000","sales_price":"9900","discount_rate":"0.732","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"984"
+,"url":"","product_name":"히알루론산 물톡스 마일드 톤보정 선크림 50ml"},
+{"brand_name":"메디힐","item_id":"66348","price":"47000","sales_price":"26400","discount_rate":"0.438","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"757"
+,"url":"","product_name":"마데카소사이드 흔적 리페어 세럼 100ml 기획 (+패드 2매+마스크 1매)"},
+{"brand_name":"메디힐","item_id":"64587","price":"40000","sales_price":"20500","discount_rate":"0.488","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"757"
+,"url":"","product_name":"마데카소사이드 에센셜 마스크 흔적 리페어 10매+10매"},
+{"brand_name":"메디힐","item_id":"69792","price":"40000","sales_price":"20500","discount_rate":"0.488","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"757"
+,"url":"","product_name":"히알루론산 에센셜 마스크 고밀도 수분 10매+10매"},
+{"brand_name":"메디힐","item_id":"69796","price":"40000","sales_price":"20500","discount_rate":"0.488","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"757"
+,"url":"","product_name":"티트리 에센셜 마스크 진정 수분 10매+10매"},
+{"brand_name":"메디힐","item_id":"74042","price":"23000","sales_price":"19200","discount_rate":"0.165","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"757"
+,"url":"","product_name":"마데카소사이드 흔적 리페어 더마 크림 50ml"},
+{"brand_name":"메디힐","item_id":"56891","price":"32000","sales_price":"21800","discount_rate":"0.319","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"757"
+,"url":"","product_name":"티트리 진정 수분 앰플 73ml 기획(앰플 50ml+23ml+패드3매)"},
+{"brand_name":"메디힐","item_id":"48107","price":"48000","sales_price":"29900","discount_rate":"0.377","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"757"
+,"url":"","product_name":"티트리 트러블 패드100매+리필 100매"},
+{"brand_name":"메디힐","item_id":"69495","price":"22000","sales_price":"14900","discount_rate":"0.323","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"757"
+,"url":"","product_name":"마데카소사이드 수분 선세럼 흔적 리페어 50g"},
+{"brand_name":"메디힐","item_id":"71513","price":"26000","sales_price":"18600","discount_rate":"0.285","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"부분마스크 패드","cate_3_code":"001:003:008","brand_id":"757"
+,"url":"","product_name":"피디알엔 모공 탄력 패드 100매"},
+{"brand_name":"폴라초이스","item_id":"73040","price":"59000","sales_price":"44250","discount_rate":"0.25","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"41"
+,"url":"","product_name":"[대용량] 바하 리퀴드 236ml"},
+{"brand_name":"폴라초이스","item_id":"51690","price":"53000","sales_price":"39750","discount_rate":"0.25","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"41"
+,"url":"","product_name":"바하+아하+파하 리퀴드 118ml"},
+{"brand_name":"코스알엑스","item_id":"55691","price":"26000","sales_price":"19000","discount_rate":"0.269","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002","brand_id":"1310"
+,"url":"","product_name":"약산성 나이아신아마이드 미셀라 클렌징 워터 400ml (2개입)"},
+{"brand_name":"코스알엑스","item_id":"47398","price":"18000","sales_price":"14400","discount_rate":"0.2","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1310"
+,"url":"","product_name":"더 비타민씨 13 세럼 20ml"},
+{"brand_name":"코스알엑스","item_id":"69944","price":"25000","sales_price":"21400","discount_rate":"0.144","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1310"
+,"url":"","product_name":"더 세라마이드 스킨 베리어 모이스처라이저 80ml"},
+{"brand_name":"코스알엑스","item_id":"65495","price":"23000","sales_price":"17900","discount_rate":"0.222","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1310"
+,"url":"","product_name":"더 알파-알부틴 2 디스컬러레이션 케어 세럼 50ml"},
+{"brand_name":"코스알엑스","item_id":"6466","price":"9900","sales_price":"7900","discount_rate":"0.202","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"1310"
+,"url":"","product_name":"살리실산 데일리 젠틀 클렌저 150ml"},
+{"brand_name":"코스알엑스","item_id":"62400","price":"9900","sales_price":"7900","discount_rate":"0.202","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"1310"
+,"url":"","product_name":"약산성 굿모닝 젤 클렌저 150ml"},
+{"brand_name":"코스알엑스","item_id":"4744","price":"23000","sales_price":"18900","discount_rate":"0.178","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1310"
+,"url":"","product_name":"어드벤스드 스네일 96 뮤신 파워 에센스 100ml"},
+{"brand_name":"코스알엑스","item_id":"5412","price":"17500","sales_price":"13500","discount_rate":"0.229","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"1310"
+,"url":"","product_name":"원스텝 그린 카밍 패드 70매"},
+{"brand_name":"코스알엑스","item_id":"1894","price":"17500","sales_price":"13500","discount_rate":"0.229","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너 패드","cate_3_code":"001:001:011","brand_id":"1310"
+,"url":"","product_name":"원스텝 모이스쳐업 패드 70매"},
+{"brand_name":"코스알엑스","item_id":"1893","price":"17500","sales_price":"13500","discount_rate":"0.229","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링 패드","cate_3_code":"001:002:010","brand_id":"1310"
+,"url":"","product_name":"원스텝 오리지널 클리어 패드 70매"},
+{"brand_name":"코스알엑스","item_id":"71293","price":"23000","sales_price":"15000","discount_rate":"0.348","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선스틱","cate_3_code":"001:004:004","brand_id":"1310"
+,"url":"","product_name":"에어리-라이트 인비저블 선스틱 [SPF50+PA++++]"},
+{"brand_name":"코스알엑스","item_id":"5477","price":"23500","sales_price":"16000","discount_rate":"0.319","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1310"
+,"url":"","product_name":"풀핏 프로폴리스 라이트 앰플 30ml"},
+{"brand_name":"코스알엑스","item_id":"7022","price":"28000","sales_price":"15900","discount_rate":"0.432","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1310"
+,"url":"","product_name":"풀핏 프로폴리스 라이트 크림 65ml"},
+{"brand_name":"코스알엑스","item_id":"6786","price":"22000","sales_price":"14500","discount_rate":"0.341","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1310"
+,"url":"","product_name":"풀핏 프로폴리스 시너지 토너 280ml"},
+{"brand_name":"코스알엑스","item_id":"7781","price":"23000","sales_price":"16900","discount_rate":"0.265","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1310"
+,"url":"","product_name":"퓨어 핏 시카 세럼 30ml"},
+{"brand_name":"코스알엑스","item_id":"21448","price":"25000","sales_price":"15500","discount_rate":"0.38","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1310"
+,"url":"","product_name":"퓨어 핏 시카 크림 인텐스 50ml"},
+{"brand_name":"코스알엑스","item_id":"7780","price":"25000","sales_price":"15500","discount_rate":"0.38","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1310"
+,"url":"","product_name":"퓨어 핏 시카 크림 50ml"},
+{"brand_name":"코스알엑스","item_id":"7782","price":"20000","sales_price":"10000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1310"
+,"url":"","product_name":"퓨어 핏 시카 토너 150ml"},
+{"brand_name":"에뛰드","item_id":"69745","price":"19000","sales_price":"12000","discount_rate":"0.368","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"34"
+,"url":"","product_name":"순정 약산성 클렌징 밀크 250ml"},
+{"brand_name":"에뛰드","item_id":"69746","price":"9000","sales_price":"6000","discount_rate":"0.333","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"34"
+,"url":"","product_name":"순정 약산성 클렌징 밀크 100ml (리필)"},
+{"brand_name":"에뛰드","item_id":"69747","price":"26000","sales_price":"13000","discount_rate":"0.5","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 로션/크림","cate_3_code":"001:002:005","brand_id":"34"
+,"url":"","product_name":"순정 약산성 클렌징 밀크 기획세트 (본품 200ml + 리필 100ml)"},
+{"brand_name":"에뛰드","item_id":"69751","price":"25000","sales_price":"13000","discount_rate":"0.48","cate_2_name":"선케어","cate_2_code":"001:004","cate_3_name":"선크림/로션","cate_3_code":"001:004:001","brand_id":"34"
+,"url":"","product_name":"순정 디렉터 톤업 수정 선크림 기획세트 (본품 40ml + 폼 20ml)"},
+{"brand_name":"에뛰드","item_id":"69891","price":"15000","sales_price":"9900","discount_rate":"0.34","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 6.5 휩 클렌저 150ml"},
+{"brand_name":"에뛰드","item_id":"69892","price":"21000","sales_price":"13900","discount_rate":"0.338","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 6.5 휩 클렌저 250ml"},
+{"brand_name":"에뛰드","item_id":"69893","price":"11000","sales_price":"6900","discount_rate":"0.373","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 6.5 휩 클렌저 [리필] 150ml"},
+{"brand_name":"에뛰드","item_id":"69894","price":"32000","sales_price":"18900","discount_rate":"0.409","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 6.5 휩 클렌저 250ml + 리필 150ml"},
+{"brand_name":"에뛰드","item_id":"69994","price":"27000","sales_price":"17900","discount_rate":"0.337","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 5.5 진정 토너 350ml"},
+{"brand_name":"에뛰드","item_id":"69995","price":"12000","sales_price":"7500","discount_rate":"0.375","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 5.5 진정 토너 [리필] 200ml"},
+{"brand_name":"에뛰드","item_id":"69996","price":"27000","sales_price":"18900","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 5.5 진정 토너 350ml"},
+{"brand_name":"에뛰드","item_id":"69997","price":"17000","sales_price":"10000","discount_rate":"0.412","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"34"
+,"url":"","product_name":"순정 10무 수분 에멀전 130ml"},
+{"brand_name":"에뛰드","item_id":"69999","price":"17000","sales_price":"11900","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"34"
+,"url":"","product_name":"순정 2x 베리어 보습 크림 60ml"},
+{"brand_name":"에뛰드","item_id":"70000","price":"25000","sales_price":"15000","discount_rate":"0.4","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"밤/멀티밤","cate_3_code":"001:001:012","brand_id":"34"
+,"url":"","product_name":"순정 판텐소사이드™ 10 시카 밤 50ml"},
+{"brand_name":"에뛰드","item_id":"70002","price":"44000","sales_price":"25000","discount_rate":"0.432","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"34"
+,"url":"","product_name":"순정 스킨케어 2종 세트 (토너 350ml + 에멀전 130ml)"},
+{"brand_name":"에뛰드","item_id":"70003","price":"14000","sales_price":"9800","discount_rate":"0.3","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 워터","cate_3_code":"001:002:002","brand_id":"34"
+,"url":"","product_name":"순정 약산성 클렌징 워터 320ml"},
+{"brand_name":"에뛰드","item_id":"70004","price":"12000","sales_price":"7900","discount_rate":"0.342","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"34"
+,"url":"","product_name":"순정 약산성 5.5 폼 클렌저 150ml"},
+{"brand_name":"에뛰드","item_id":"70005","price":"20000","sales_price":"10000","discount_rate":"0.5","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"34"
+,"url":"","product_name":"순정 판텐소사이드 마스크 25ml X 10매"},
+{"brand_name":"셀라딕스","item_id":"67104","price":"50000","sales_price":"28000","discount_rate":"0.44","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"트러블 세범 리밸런싱 131앰플 20ml"},
+{"brand_name":"셀라딕스","item_id":"69785","price":"58000","sales_price":"31900","discount_rate":"0.45","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"트러블 세범 리밸런싱 131앰플 기획세트 (앰플30ml*1개+라하패드 10ml 2매입)"},
+{"brand_name":"셀라딕스","item_id":"69389","price":"100000","sales_price":"50000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"트러블 세범 리밸런싱 131앰플 기획세트 (앰플30ml*2개+수분크림샤쉐1ml*10개)"},
+{"brand_name":"셀라딕스","item_id":"72802","price":"50000","sales_price":"26900","discount_rate":"0.46","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"바나나 PDRN 2X 세럼 30ml"},
+{"brand_name":"셀라딕스","item_id":"70968","price":"40000","sales_price":"17500","discount_rate":"0.56","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"13580"
+,"url":"","product_name":"트러블 쿨 카밍 131 토너 300ml"},
+{"brand_name":"셀라딕스","item_id":"70966","price":"50000","sales_price":"24900","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13580"
+,"url":"","product_name":"트러블 세라 캡슐 131크림 95ml"},
+{"brand_name":"셀라딕스","item_id":"70967","price":"35000","sales_price":"18500","discount_rate":"0.47","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"13580"
+,"url":"","product_name":"트러블 클리어 약산성 젤클렌저 200ml"},
+{"brand_name":"셀라딕스","item_id":"72954","price":"50000","sales_price":"33500","discount_rate":"0.33","cate_2_name":"마스크/팩","cate_2_code":"001:003","cate_3_name":"시트마스크","cate_3_code":"001:003:001","brand_id":"13580"
+,"url":"","product_name":"바이오 셀룰로오스 마스크 18ml 5개입"},
+{"brand_name":"셀라딕스","item_id":"68860","price":"40000","sales_price":"27900","discount_rate":"0.3","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"트리플 레티놀 흔적 앰플 30ml"},
+{"brand_name":"셀라딕스","item_id":"68886","price":"50000","sales_price":"34500","discount_rate":"0.31","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링","cate_3_code":"001:002:009","brand_id":"13580"
+,"url":"","product_name":"트리플 레티놀 아크네 워시 필 30ml"},
+{"brand_name":"셀라딕스","item_id":"72949","price":"25000","sales_price":"18500","discount_rate":"0.26","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"13580"
+,"url":"","product_name":"히알루로닉 인텐스 토너 300ml"},
+{"brand_name":"셀라딕스","item_id":"72950","price":"40000","sales_price":"25000","discount_rate":"0.38","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13580"
+,"url":"","product_name":"히알루로닉 인텐스 세럼 50ml"},
+{"brand_name":"셀라딕스","item_id":"72951","price":"40000","sales_price":"23900","discount_rate":"0.4","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13580"
+,"url":"","product_name":"히알루로닉 인텐스 크림 80ml"},
+{"brand_name":"셀라딕스","item_id":"72952","price":"45000","sales_price":"28500","discount_rate":"0.37","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13580"
+,"url":"","product_name":"히알루로닉 프로즌 마스크 45ml"},
+{"brand_name":"셀라딕스","item_id":"72953","price":"40000","sales_price":"26500","discount_rate":"0.34","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"젤","cate_3_code":"001:001:010","brand_id":"13580"
+,"url":"","product_name":"히알루로닉 비타 스파클 젤리 80ml"},
+{"brand_name":"셀라딕스","item_id":"67430","price":"40000","sales_price":"24700","discount_rate":"0.38","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"스크럽/필링 패드","cate_3_code":"001:002:010","brand_id":"13580"
+,"url":"","product_name":"셀라딕스 세범 소프트닝 131 라하 패드 10ml*10봉(30매)"},
+{"brand_name":"메디온","item_id":"72948","price":"40000","sales_price":"28000","discount_rate":"0.3","cate_2_name":"이너뷰티","cate_2_code":"001:013","cate_3_name":"체지방/체중 관리","cate_3_code":"001:013:004","brand_id":"11762"
+,"url":"","product_name":"서플리케어 틴시아 20g10포"},
+{"brand_name":"메디온","item_id":"72947","price":"70000","sales_price":"57000","discount_rate":"0.19","cate_2_name":"이너뷰티","cate_2_code":"001:013","cate_3_name":"기타 식품","cate_3_code":"001:013:012","brand_id":"11762"
+,"url":"","product_name":"이노시톨 5.1g*30포"},
+{"brand_name":"메디온","item_id":"72946","price":"45000","sales_price":"33000","discount_rate":"0.27","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"PDRN 이너턴 세럼"},
+{"brand_name":"메디온","item_id":"72945","price":"90000","sales_price":"54000","discount_rate":"0.4","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 이너케어젤 2.0 1.8g*20개입"},
+{"brand_name":"메디온","item_id":"68898","price":"50000","sales_price":"33000","discount_rate":"0.34","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 뿌리는 여성 생유산균 3g"},
+{"brand_name":"메디온","item_id":"68896","price":"35000","sales_price":"27900","discount_rate":"0.2","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 Y케어 퍼퓸 미스트 30ml 퓨어"},
+{"brand_name":"메디온","item_id":"68895","price":"35000","sales_price":"27900","discount_rate":"0.2","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 Y케어 퍼퓸 미스트 30ml 무드바이올렛"},
+{"brand_name":"메디온","item_id":"68894","price":"35000","sales_price":"27900","discount_rate":"0.2","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 Y케어 퍼퓸 미스트 30ml 워터리블루"},
+{"brand_name":"메디온","item_id":"68843","price":"40000","sales_price":"28900","discount_rate":"0.28","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 카밍크림 15ml"},
+{"brand_name":"메디온","item_id":"68841","price":"35000","sales_price":"15900","discount_rate":"0.55","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디크림/젤","cate_3_code":"001:008:003","brand_id":"11762"
+,"url":"","product_name":"락토리메디 밸런스 젤 2.0 150ml"},
+{"brand_name":"메디온","item_id":"68839","price":"15000","sales_price":"7000","discount_rate":"0.53","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"11762"
+,"url":"","product_name":"락토리메디 청결티슈 6g*15매"},
+{"brand_name":"메디온","item_id":"68838","price":"45000","sales_price":"27900","discount_rate":"0.38","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"11762"
+,"url":"","product_name":"락토리메디 이너케어젤 2.0 1.8g*10개입"},
+{"brand_name":"메디온","item_id":"68837","price":"24900","sales_price":"14900","discount_rate":"0.4","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"여성청결제","cate_3_code":"001:008:010","brand_id":"11762"
+,"url":"","product_name":"락토리메디 포밍워시 150ml"},
+{"brand_name":"비그린","item_id":"65431","price":"32000","sales_price":"16000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13220"
+,"url":"","product_name":"인텐시브 비타민C 앰플 30ml"},
+{"brand_name":"비그린","item_id":"62875","price":"22500","sales_price":"11250","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13220"
+,"url":"","product_name":"무향 시카 세럼 50ml"},
+{"brand_name":"비그린","item_id":"65426","price":"17000","sales_price":"8500","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"13220"
+,"url":"","product_name":"비그린 무알콜 뮤신 에센스 토너 150ml"},
+{"brand_name":"비그린","item_id":"73048","price":"17000","sales_price":"8500","discount_rate":"0.5","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 젤","cate_3_code":"001:002:003","brand_id":"13220"
+,"url":"","product_name":"비그린 라이스 페이셜 워시 클렌저 150ml"},
+{"brand_name":"비그린","item_id":"65430","price":"21000","sales_price":"10500","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13220"
+,"url":"","product_name":"비그린 무향 네이처 뮤신 세럼 50ml"},
+{"brand_name":"비그린","item_id":"65428","price":"24000","sales_price":"12000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"13220"
+,"url":"","product_name":"비그린 스킨 베리어 영지 세럼 50ml"},
+{"brand_name":"비그린","item_id":"65427","price":"32000","sales_price":"16000","discount_rate":"0.5","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 오일","cate_3_code":"001:002:004","brand_id":"13220"
+,"url":"","product_name":"비그린 이스 데일리 모이스처 포어 클렌징 오일 150ml"},
+{"brand_name":"비그린","item_id":"65432","price":"21800","sales_price":"10900","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"13220"
+,"url":"","product_name":"비그린 730 데일리 모이스처 크림 50ml"},
+{"brand_name":"코스노리","item_id":"4483","price":"26000","sales_price":"15800","discount_rate":"0.392","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"톤업크림","cate_3_code":"001:005:012","brand_id":"1768"
+,"url":"","product_name":"화이트닝 드레스 크림 50ml (1개)"},
+{"brand_name":"코스노리","item_id":"34803","price":"52000","sales_price":"29500","discount_rate":"0.433","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"톤업크림","cate_3_code":"001:005:012","brand_id":"1768"
+,"url":"","product_name":"화이트닝 드레스 크림 50ml (2개입)"},
+{"brand_name":"코스노리","item_id":"35979","price":"22000","sales_price":"14400","discount_rate":"0.345","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"속눈썹영양제","cate_3_code":"001:006:005","brand_id":"1768"
+,"url":"","product_name":"롱 액티브 아이래쉬 세럼 9g (1개입)"},
+{"brand_name":"코스노리","item_id":"35978","price":"44000","sales_price":"27900","discount_rate":"0.366","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"속눈썹영양제","cate_3_code":"001:006:005","brand_id":"1768"
+,"url":"","product_name":"롱 액티브 아이래쉬 세럼 속눈썹영양제 9g (2개입)"},
+{"brand_name":"코스노리","item_id":"55678","price":"22000","sales_price":"14400","discount_rate":"0.345","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"속눈썹영양제","cate_3_code":"001:006:005","brand_id":"1768"
+,"url":"","product_name":"아이래쉬 틴팅 세럼 01 딥블랙 9g"},
+{"brand_name":"코스노리","item_id":"56720","price":"44000","sales_price":"27900","discount_rate":"0.366","cate_2_name":"아이메이크업","cate_2_code":"001:006","cate_3_name":"속눈썹영양제","cate_3_code":"001:006:005","brand_id":"1768"
+,"url":"","product_name":"아이래쉬 틴팅 세럼 01 딥블랙 9g (2개)"},
+{"brand_name":"코스노리","item_id":"32267","price":"30000","sales_price":"17500","discount_rate":"0.417","cate_2_name":"베이스메이크업","cate_2_code":"001:005","cate_3_name":"메이크업베이스","cate_3_code":"001:005:001","brand_id":"1768"
+,"url":"","product_name":"유어 스킨 드레스 톤업 베이스 50ml SPF50+/PA++++ (1개입)"},
+{"brand_name":"코스노리","item_id":"60025","price":"22000","sales_price":"14500","discount_rate":"0.341","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 토너 205ml"},
+{"brand_name":"코스노리","item_id":"60295","price":"44000","sales_price":"27600","discount_rate":"0.373","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 토너 205ml (2개입)"},
+{"brand_name":"코스노리","item_id":"60028","price":"26000","sales_price":"17500","discount_rate":"0.327","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 에멀전 150ml"},
+{"brand_name":"코스노리","item_id":"60366","price":"52000","sales_price":"33600","discount_rate":"0.354","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"로션/에멀젼","cate_3_code":"001:001:002","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 에멀전 150ml (2개입)"},
+{"brand_name":"코스노리","item_id":"20640","price":"24000","sales_price":"10900","discount_rate":"0.546","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 앰플 30ml"},
+{"brand_name":"코스노리","item_id":"59485","price":"48000","sales_price":"17900","discount_rate":"0.627","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 앰플 30ml (2개입)"},
+{"brand_name":"코스노리","item_id":"61197","price":"48000","sales_price":"30600","discount_rate":"0.363","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"스킨/토너","cate_3_code":"001:001:001","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 토너 205ml 에멀전 150ml 세트"},
+{"brand_name":"코스노리","item_id":"26973","price":"36000","sales_price":"18000","discount_rate":"0.5","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 크림 50ml"},
+{"brand_name":"코스노리","item_id":"45607","price":"72000","sales_price":"35000","discount_rate":"0.514","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"1768"
+,"url":"","product_name":"판테놀 베리어 크림 50ml (2개입)"},
+{"brand_name":"코스노리","item_id":"65615","price":"32000","sales_price":"17500","discount_rate":"0.453","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"립/아이 리무버","cate_3_code":"001:002:008","brand_id":"1768"
+,"url":"","product_name":"마이크로 액티브 립앤아이 리무버 150ml (2개입)"},
+{"brand_name":"코스노리","item_id":"25662","price":"52000","sales_price":"9900","discount_rate":"0.81","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"아이케어","cate_3_code":"001:001:006","brand_id":"1768"
+,"url":"","product_name":"아보카도 아이크림 올페이스 60ml 대용량 기획 (30ml + 15ml + 15ml)"},
+{"brand_name":"에잇그로우","item_id":"13330","price":"28000","sales_price":"13900","discount_rate":"0.504","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어미스트","cate_3_code":"001:009:004","brand_id":"11767"
+,"url":"","product_name":"안티 헤어로스 프로비타민 B5 헤어토닉 100ml (1개입)"},
+{"brand_name":"에잇그로우","item_id":"36170","price":"84000","sales_price":"29800","discount_rate":"0.645","cate_2_name":"헤어","cate_2_code":"001:009","cate_3_name":"헤어미스트","cate_3_code":"001:009:004","brand_id":"11767"
+,"url":"","product_name":"안티 헤어로스 프로비타민 B5 헤어토닉 100ml (3개입)"},
+{"brand_name":"리에종드로렌","item_id":"74044","price":"123000","sales_price":"110700","discount_rate":"0.1","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"에센스/앰플/세럼","cate_3_code":"001:001:003","brand_id":"20365"
+,"url":"","product_name":"얼티메잇 퍼스트 에센스 100ml"},
+{"brand_name":"리에종드로렌","item_id":"74045","price":"139000","sales_price":"125100","discount_rate":"0.1","cate_2_name":"클렌징/필링","cate_2_code":"001:002","cate_3_name":"클렌징 폼","cate_3_code":"001:002:001","brand_id":"20365"
+,"url":"","product_name":"인피니트 유스 크림 50ml"},
+{"brand_name":"리에종드로렌","item_id":"74046","price":"66000","sales_price":"59400","discount_rate":"0.1","cate_2_name":"스킨케어","cate_2_code":"001:001","cate_3_name":"크림","cate_3_code":"001:001:005","brand_id":"20365"
+,"url":"","product_name":"포어 클렌저 150ml"},
+{"brand_name":"포엘리에","item_id":"6258","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드비쥬] 5ml"},
+{"brand_name":"포엘리에","item_id":"6227","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드봉봉] 5ml"},
+{"brand_name":"포엘리에","item_id":"6257","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드포렛] 5ml"},
+{"brand_name":"포엘리에","item_id":"7019","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드플뢰르] 5ml"},
+{"brand_name":"포엘리에","item_id":"14867","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드씨엘] 5ml"},
+{"brand_name":"포엘리에","item_id":"73112","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드오로라] 5 ml"},
+{"brand_name":"포엘리에","item_id":"73230","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드부케] 5ml"},
+{"brand_name":"포엘리에","item_id":"74159","price":"25000","sales_price":"11900","discount_rate":"0.524","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디기타","cate_3_code":"001:008:012","brand_id":"5903"
+,"url":"","product_name":"이너퍼퓸 [오드애콧] 5ml"},
+{"brand_name":"포엘리에","item_id":"73113","price":"20000","sales_price":"10900","discount_rate":"0.455","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디크림/젤","cate_3_code":"001:008:003","brand_id":"5903"
+,"url":"","product_name":"포엘리에 오스몰250 수용성 마사지젤 파우치"},
+{"brand_name":"포엘리에","item_id":"73115","price":"20000","sales_price":"10900","discount_rate":"0.455","cate_2_name":"바디","cate_2_code":"001:008","cate_3_name":"바디크림/젤","cate_3_code":"001:008:003","brand_id":"5903"
+,"url":"","product_name":"포엘리에 오스몰250 수용성 마사지젤 100ml"}
+]
