@@ -1,4 +1,5 @@
-[
+{
+"data" :[
   {"category_code": "001:001:003", "category_name": "에센스/앰플/세럼", "repurchase_days": 90},
   {"category_code": "001:001:005", "category_name": "크림", "repurchase_days": 94},
   {"category_code": "001:001:001", "category_name": "스킨/토너", "repurchase_days": 110},
@@ -134,3 +135,4 @@
   {"category_code": "001:013:008", "category_name": "종합 건강", "repurchase_days": 4},
   {"category_code": "001:014:003", "category_name": "헤어케어 디바이스", "repurchase_days": 23}
 ]
+}
