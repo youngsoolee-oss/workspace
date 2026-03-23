@@ -8,8 +8,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "크림"
+    "category1": "001:001",
+    "category2": "001:001:005"
   },
   {
     "product_id": 76909,
@@ -20,8 +20,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "크림"
+    "category1": "001:001",
+    "category2": "001:001:005"
   },
   {
     "product_id": 45194,
@@ -32,8 +32,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "크림"
+    "category1": "001:001",
+    "category2": "001:001:005"
   },
   {
     "product_id": 26143,
@@ -44,8 +44,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "스킨/토너"
+    "category1": "001:001",
+    "category2": "001:001:001"
   },
   {
     "product_id": 7130,
@@ -56,8 +56,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "에센스/앰플/세럼"
+    "category1": "001:001",
+    "category2": "001:001:003"
   },
   {
     "product_id": 45153,
@@ -68,8 +68,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "에센스/앰플/세럼"
+    "category1": "001:001",
+    "category2": "001:001:003"
   },
   {
     "product_id": 48278,
@@ -80,8 +80,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "클렌징/필링",
-    "category2": "클렌징 폼"
+    "category1": "001:002",
+    "category2": "001:002:001"
   },
   {
     "product_id": 66438,
@@ -92,8 +92,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "에센스/앰플/세럼"
+    "category1": "001:001",
+    "category2": "001:001:003"
   },
   {
     "product_id": 73817,
@@ -104,8 +104,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "클렌징/필링",
-    "category2": "클렌징 로션/크림"
+    "category1": "001:002",
+    "category2": "001:002:005"
   },
   {
     "product_id": 74392,
@@ -116,8 +116,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "선케어",
-    "category2": "선크림/로션"
+    "category1": "001:004",
+    "category2": "001:004:001"
   },
   {
     "product_id": 58968,
@@ -128,8 +128,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "클렌징/필링",
-    "category2": "클렌징 오일"
+    "category1": "001:002",
+    "category2": "001:002:004"
   },
   {
     "product_id": 74388,
@@ -140,8 +140,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "스킨케어",
-    "category2": "젤"
+    "category1": "001:001",
+    "category2": "001:001:010"
   },
   {
     "product_id": 73865,
@@ -152,8 +152,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "마스크/팩",
-    "category2": "부분마스크 패드"
+    "category1": "001:003",
+    "category2": "001:003:002"
   },
   {
     "product_id": 67786,
@@ -164,8 +164,8 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "베이스메이크업",
-    "category2": "메이크업베이스"
+    "category1": "001:005",
+    "category2": "001:005:001"
   },
   {
     "product_id": 31496,
@@ -176,7 +176,7 @@
     "free_shipping": true,
     "current_commission": "25%",
     "final_event_commission": "20%",
-    "category1": "마스크/팩",
-    "category2": "시트마스크"
+    "category1": "001:003",
+    "category2": "001:003:001"
   }
 ]
