@@ -1,0 +1,25 @@
+{
+  "data":
+  [ 
+    {
+      "start_date": "2025-11-14",
+      "end date": "2025-11-17",
+      "event_type" : "브랜드데이",
+      "progress_day": 4,
+      "point": 100,
+      "event_name" : "아이레시피 브랜드 세일",
+      "brand_name" : "아이레시피",
+      "brand_id" : "1234"
+    },
+    {
+      "start_date": "2025-11-17",
+      "end date": "2025-11-20",
+      "event_type" : "브랜드세일",
+      "progress_day": 4,
+      "point": 100,
+      "event_name" : "아누아 브랜드 세일",
+      "brand_name" : "아누아",
+      "brand_id" : "1224"
+    }   
+  ]
+}
